@@ -40,7 +40,7 @@
     <channel update="i" site="guiadatv.com" site_id="gloobinho" xmltv_id="Gloobinho">Gloobinho</channel>
     <channel update="i" site="guiadatv.com" site_id="ae" xmltv_id="A&amp;E">A&amp;E</channel>
     <channel update="i" site="guiadatv.com" site_id="amc" xmltv_id="AMC">AMC</channel>
-    <channel update="i" site="guiadatv.com" site_id="axn" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="guiadatv.com" site_id="axn.br" xmltv_id="AXN.br">AXN</channel>
     <channel update="i" site="guiadatv.com" site_id="cinecanal" xmltv_id="Cinecanal">Cinecanal</channel>
     <channel update="i" site="guiadatv.com" site_id="cinemax" xmltv_id="Cinemax">Cinemax</channel>
     <channel update="i" site="guiadatv.com" site_id="film-arts" xmltv_id="Film &amp; Arts">Film &amp; Arts</channel>
