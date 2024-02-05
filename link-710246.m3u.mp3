@@ -90,27 +90,8 @@ http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/254097
 #EXTINF:-1 channel-id="GNT" tvg-id="Gnt.br" tvg-name="Gnt.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GNT.png" group-title="Canais |  Variedades ",GNT
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21321
 
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 channel-id="223" tvg-id="Globosp.br" tvg-name="Globosp.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="GLOBO SP" group-title="Canais | Globo SP",GLOBO SP
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/117420
-#EXTINF:-1 channel-id="54" tvg-id="Globorj.br" tvg-name="Globorj.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo RJ UHD" group-title="Canais | Globo Sudeste",Globo RJ
 https://live-01.edge-dinamica-vve-es.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1kaW5hbWljYS12dmUtZXMudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzA3MjQzMTg5LCJpYXQiOjE3MDcxNTY3ODksImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNDI3N2IxOTYtM2QzOS00ZDYyLWE1ZTUtOGYzOWViMjNkYWVmIiwicGF0aCI6Ii9udS9mKGk9MikvZ2xvYm8tdml0L3BsYXlsaXN0Lm0zdTgifQ.xPGDqUc5IqNJ3ojkxHsSSqnn7EskomnmJCkrwcuyUVAnY_vstiVj5z4SyNjBPowEeTBrDZFu-adjFYS6w-SiVHE3PsLz7eFfyR0o1fi8UFaAXE6M_hMysf2i0WXeMz_gxT-TCnQr1vdZi-bb2_VxYrD9h9ZO9y1TL2LtriA1o7flSa-n4w5SpSteQYp-h3oVl_fNrKpiYSEZzlp0kJ1KZd8RfDXTDgv_IWmIZg83xPISsKDUrFL2cGtlVTJjgyF4XouRHgcqp6T3kBd3RJM2v0z9Tcr-dAPJwpOk_aTb2CbLERlXtlxJipTlxNqyRKxfs8JHOMr0l5IRoOJlFjopkQ/nu/f(i=2)/globo-vit/playlist.m3u8#EXTINF:-1 channel-id="Globo SP" tvg-id="Globosp.br" tvg-name="Globosp.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo SP
-
-
-
-
-
-
 
 #EXTINF:-1 channel-id="GloboNews" tvg-id="Globonews.br" tvg-name="Globonews.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBONEWS.png" group-title="Canais | Noticias",GloboNews
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21244
@@ -178,6 +159,7 @@ http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21268
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21328
 #EXTINF:-1 channel-id="Premiere 7" tvg-id="Premiere7.br" tvg-name="Premiere7.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 7
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21329
+
 #EXTINF:-1 channel-id="Premiere Clubes" tvg-id="Premierefchd.br" tvg-name="Premierefchd.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere Clubes
 https://live-01.edge-dinamica-vve-es.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1kaW5hbWljYS12dmUtZXMudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzA3MjQzMzk0LCJpYXQiOjE3MDcxNTY5OTQsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNDI3N2IxOTYtM2QzOS00ZDYyLWE1ZTUtOGYzOWViMjNkYWVmIiwicGF0aCI6Ii9udS9mKGk9MikvcGZjMS9wbGF5bGlzdC5tM3U4In0.t8Qf6g3cZ4VGzROpkm0qXHoTdyk4YmgTLutZygJoyMADV3b03iJHJIiHOy12PZsrqKWhaFIOgpGbYFAPm6IQqfOCpUXidLnHv4FrZkYw-RhPE2ulZAWFQyoCG4tZ2RsJIaTjFEJqAr2Rw1kEyNximJlRvjfRLM_aPe1G-vQkCIstfZYy9F27x0gga9ufqsMnopRGFv3vOZF8egnqSIvc4QgkyURseuuqlPKoQmQm8QO1P-B7zYOH7fiJwW8EvKz6_dT_Ofas3fhVRYbmVGtni08LTjFUxW4oMZRRohH6L6JSrsu4IjH1SKy81dqyGnJXDAi1pQ1AsujqFkv9LH9_lw/nu/f(i=2)/pfc1/playlist.m3u8?originpath=/linear/hls/pa/event/Ffi7XeMFQw6Je1dIVPz0JA/stream/3167701d-1ac0-4c6e-b79e-95b4b1e0d5b9:SCL/master.m3u8
 
