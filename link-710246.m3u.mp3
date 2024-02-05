@@ -87,8 +87,135 @@ http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21237
 #EXTINF:-1 channel-id="GNT" tvg-id="Gnt.br" tvg-name="Gnt.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GNT.png" group-title="Canais |  Variedades ",GNT
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21321
 
-#EXTINF:-1 channel-id="GLOBO RIO" tvg-id="Globorj.br" tvg-name="Globorj.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Globo",GLOBO 
+#EXTINF:-1 channel-id="GLOBO RIO" tvg-id="Globorj.br" tvg-name="Globorj.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Globo",GLOBO
 https://live-01.edge-dinamica-vve-es.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1kaW5hbWljYS12dmUtZXMudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzA3MjQzMTg5LCJpYXQiOjE3MDcxNTY3ODksImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNDI3N2IxOTYtM2QzOS00ZDYyLWE1ZTUtOGYzOWViMjNkYWVmIiwicGF0aCI6Ii9udS9mKGk9MikvZ2xvYm8tdml0L3BsYXlsaXN0Lm0zdTgifQ.xPGDqUc5IqNJ3ojkxHsSSqnn7EskomnmJCkrwcuyUVAnY_vstiVj5z4SyNjBPowEeTBrDZFu-adjFYS6w-SiVHE3PsLz7eFfyR0o1fi8UFaAXE6M_hMysf2i0WXeMz_gxT-TCnQr1vdZi-bb2_VxYrD9h9ZO9y1TL2LtriA1o7flSa-n4w5SpSteQYp-h3oVl_fNrKpiYSEZzlp0kJ1KZd8RfDXTDgv_IWmIZg83xPISsKDUrFL2cGtlVTJjgyF4XouRHgcqp6T3kBd3RJM2v0z9Tcr-dAPJwpOk_aTb2CbLERlXtlxJipTlxNqyRKxfs8JHOMr0l5IRoOJlFjopkQ/nu/f(i=2)/globo-vit/playlist.m3u8#EXTINF:-1 channel-id="Globo SP" tvg-id="Globosp.br" tvg-name="Globosp.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo SP
+
+#EXTINF:-1 channel-id="509" tvg-id="GloboBrasilia.br" tvg-name="GloboBrasilia.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo Brasilia HD" group-title="Canais | Globo Centro-Oeste",Globo Brasilia HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2451
+#EXTINF:-1 channel-id="510" tvg-id="GloboEPTVCampinas.br" tvg-name="GloboEPTVCampinas.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo EPTV Campinas HD" group-title="Canais | Globo Sudeste",Globo EPTV Campinas HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2388
+#EXTINF:-1 channel-id="511" tvg-id="GloboEPTVCampinas.br" tvg-name="GloboEPTVCampinas.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo EPTV Central Sao Carlos HD" group-title="Canais | Globo Sudeste",Globo EPTV Central Sao Carlos HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2391
+#EXTINF:-1 channel-id="512" tvg-id="GloboEPTVCampinas.br" tvg-name="GloboEPTVCampinas.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo EPTV Ribeirão Preto HD" group-title="Canais | Globo Sudeste",Globo EPTV Ribeirão Preto HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2385
+#EXTINF:-1 channel-id="513" tvg-id="GloboEPTVCampinas.br" tvg-name="GloboEPTVCampinas.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo EPTV Sul de Minas HD" group-title="Canais | Globo Sudeste",Globo EPTV Sul de Minas HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2382
+#EXTINF:-1 channel-id="514" tvg-id="altolitoral.br" tvg-name="altolitoral.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo Inter TV Alto Litoral HD" group-title="Canais | Globo Sudeste",Globo Inter TV Alto Litoral HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/112632
+#EXTINF:-1 channel-id="515" tvg-id="Intertvgminas.br" tvg-name="Intertvgminas.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo Inter TV Cabugi HD" group-title="Canais | Globo Nordeste",Globo Inter TV Cabugi HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2436
+#EXTINF:-1 channel-id="516" tvg-id="Globosp.br" tvg-name="Globosp.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="GLOBO INTER TV DOS VALES HD" group-title="Canais | Globo Sudeste",GLOBO INTER TV DOS VALES HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/117421
+#EXTINF:-1 channel-id="517" tvg-id="Globominas.br" tvg-name="Globominas.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo Minas HD" group-title="Canais | Globo Sudeste",Globo Minas HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2378
+#EXTINF:-1 channel-id="518" tvg-id="Globominas.br" tvg-name="Globominas.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo Minas HD²" group-title="Canais | Globo Sudeste",Globo Minas HD²
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2379
+#EXTINF:-1 channel-id="519" tvg-id="Globorecife.br" tvg-name="Globorecife.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo Nordeste HD" group-title="Canais | Globo Nordeste",Globo Nordeste HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2427
+#EXTINF:-1 channel-id="520" tvg-id="NSCTV.br" tvg-name="NSCTV.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo NSC TV Blumenau HD" group-title="Canais |  Globo Sul",Globo NSC TV Blumenau HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2289
+#EXTINF:-1 channel-id="521" tvg-id="NSCTV.br" tvg-name="NSCTV.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo NSC TV Centro Oeste HD" group-title="Canais | Globo Centro-Oeste",Globo NSC TV Centro Oeste HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2457
+#EXTINF:-1 channel-id="522" tvg-id="NSCTV.br" tvg-name="NSCTV.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo NSC TV Chapeco HD" group-title="Canais |  Globo Sul",Globo NSC TV Chapeco HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2309
+#EXTINF:-1 channel-id="523" tvg-id="NSCTV.br" tvg-name="NSCTV.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo NSC TV Criciuma HD" group-title="Canais |  Globo Sul",Globo NSC TV Criciuma HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2295
+#EXTINF:-1 channel-id="524" tvg-id="NSCTV.br" tvg-name="NSCTV.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo NSC TV Florianopolis HD" group-title="Canais |  Globo Sul",Globo NSC TV Florianopolis HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2301
+#EXTINF:-1 channel-id="525" tvg-id="NSCTV.br" tvg-name="NSCTV.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo NSC TV Joinville HD" group-title="Canais |  Globo Sul",Globo NSC TV Joinville HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2304
+#EXTINF:-1 channel-id="526" tvg-id="GloboPortoAlegre.br" tvg-name="GloboPortoAlegre.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo RBS TV Caxias do Sul HD" group-title="Canais |  Globo Sul",Globo RBS TV Caxias do Sul HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2306
+#EXTINF:-1 channel-id="527" tvg-id="GloboPortoAlegre.br" tvg-name="GloboPortoAlegre.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo RBS TV Passo Fundo HD" group-title="Canais |  Globo Sul",Globo RBS TV Passo Fundo HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2330
+#EXTINF:-1 channel-id="528" tvg-id="GloboPortoAlegre.br" tvg-name="GloboPortoAlegre.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo RBS TV Pelotas HD" group-title="Canais |  Globo Sul",Globo RBS TV Pelotas HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2327
+#EXTINF:-1 channel-id="529" tvg-id="GloboPortoAlegre.br" tvg-name="GloboPortoAlegre.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo RBS TV POA HD" group-title="Canais |  Globo Sul",Globo RBS TV POA HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2312
+#EXTINF:-1 channel-id="530" tvg-id="GloboPortoAlegre.br" tvg-name="GloboPortoAlegre.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo RBS TV Santa Maria HD" group-title="Canais |  Globo Sul",Globo RBS TV Santa Maria HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2333
+#EXTINF:-1 channel-id="531" tvg-id="globoboavista.br" tvg-name="globoboavista.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo Rede Amazonica Boa Vista HD" group-title="Canais | Globo Norte",Globo Rede Amazonica Boa Vista HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2354
+#EXTINF:-1 channel-id="532" tvg-id="globoamazonas.br" tvg-name="globoamazonas.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo Rede Amazonica Manaus HD" group-title="Canais | Globo Norte",Globo Rede Amazonica Manaus HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2357
+#EXTINF:-1 channel-id="533" tvg-id="globoportovelho.br" tvg-name="globoportovelho.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo Rede Amazonica Porto Velho HD" group-title="Canais | Globo Norte",Globo Rede Amazonica Porto Velho HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2360
+#EXTINF:-1 channel-id="534" tvg-id="globoriobranco.br" tvg-name="globoriobranco.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo Rede Amazonica Rio Branco HD" group-title="Canais | Globo Norte",Globo Rede Amazonica Rio Branco HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2363
+#EXTINF:-1 channel-id="535" tvg-id="Globorj.br" tvg-name="Globorj.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo RJ HD" group-title="Canais | Globo Sudeste",Globo RJ HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2374
+#EXTINF:-1 channel-id="536" tvg-id="Globorj.br" tvg-name="Globorj.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo RJ HD²" group-title="Canais | Globo Sudeste",Globo RJ HD²
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2375
+#EXTINF:-1 channel-id="537" tvg-id="Rpccuritiba.br" tvg-name="Rpccuritiba.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo RPC Cascavel HD" group-title="Canais |  Globo Sul",Globo RPC Cascavel HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2298
+#EXTINF:-1 channel-id="538" tvg-id="Rpccuritiba.br" tvg-name="Rpccuritiba.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo RPC Londrina HD" group-title="Canais |  Globo Sul",Globo RPC Londrina HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2345
+#EXTINF:-1 channel-id="539" tvg-id="Rpccuritiba.br" tvg-name="Rpccuritiba.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo RPC TV Curitiba HD" group-title="Canais |  Globo Sul",Globo RPC TV Curitiba HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2292
+#EXTINF:-1 channel-id="540" tvg-id="Rpccuritiba.br" tvg-name="Rpccuritiba.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo RPC TV Maringa HD" group-title="Canais |  Globo Sul",Globo RPC TV Maringa HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2348
+#EXTINF:-1 channel-id="541" tvg-id="GloboPortoAlegre.br" tvg-name="GloboPortoAlegre.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo RPC TV Paranavai HD" group-title="Canais |  Globo Sul",Globo RPC TV Paranavai HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2321
+#EXTINF:-1 channel-id="542" tvg-id="GloboPortoAlegre.br" tvg-name="GloboPortoAlegre.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo RPC TV Ponta Grossa HD" group-title="Canais |  Globo Sul",Globo RPC TV Ponta Grossa HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2324
+#EXTINF:-1 channel-id="543" tvg-id="GloboAnhangueraGoias.br" tvg-name="GloboAnhangueraGoias.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo TV Anhanguera HD" group-title="Canais | Globo Centro-Oeste",Globo TV Anhanguera HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2448
+#EXTINF:-1 channel-id="544" tvg-id="Globorecife.br" tvg-name="Globorecife.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo TV Bahia HD" group-title="Canais | Globo Nordeste",Globo TV Bahia HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2424
+#EXTINF:-1 channel-id="545" tvg-id="Centroamerica.br" tvg-name="Centroamerica.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo TV Centro America HD" group-title="Canais | Globo Centro-Oeste",Globo TV Centro America HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2454
+#EXTINF:-1 channel-id="546" tvg-id="Tvdiariosp.br" tvg-name="Tvdiariosp.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo TV Diario Mogi das Cruzes HD" group-title="Canais | Globo Sudeste",Globo TV Diario Mogi das Cruzes HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2403
+#EXTINF:-1 channel-id="547" tvg-id="Tvgazetaalagoas.br" tvg-name="Tvgazetaalagoas.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo TV Gazeta Alagoas HD" group-title="Canais | Globo Nordeste",Globo TV Gazeta Alagoas HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2439
+#EXTINF:-1 channel-id="548" tvg-id="TVGazetaes.br" tvg-name="TVGazetaes.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo TV Gazeta Sul HD" group-title="Canais |  Globo Sul",Globo TV Gazeta Sul HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2318
+#EXTINF:-1 channel-id="549" tvg-id="TVGazetaes.br" tvg-name="TVGazetaes.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo TV Gazeta Vitoria HD" group-title="Canais | Globo Sudeste",Globo TV Gazeta Vitoria HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2394
+#EXTINF:-1 channel-id="550" tvg-id="Globominas.br" tvg-name="Globominas.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo TV Integracao Uberaba HD" group-title="Canais | Globo Sudeste",Globo TV Integracao Uberaba HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2400
+#EXTINF:-1 channel-id="551" tvg-id="Globominas.br" tvg-name="Globominas.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo TV Integracao Uberlandia HD" group-title="Canais | Globo Sudeste",Globo TV Integracao Uberlandia HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2409
+#EXTINF:-1 channel-id="552" tvg-id="Tvliberalbelem.br" tvg-name="Tvliberalbelem.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo TV Liberal Belem HD" group-title="Canais | Globo Norte",Globo TV Liberal Belem HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2366
+#EXTINF:-1 channel-id="553" tvg-id="Tvmirante.br" tvg-name="Tvmirante.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo TV Mirante Cocais HD" group-title="Canais | Globo Nordeste",Globo TV Mirante Cocais HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2445
+#EXTINF:-1 channel-id="554" tvg-id="Tvriosul.br" tvg-name="Tvriosul.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo TV Rio Sul HD" group-title="Canais | Globo Sudeste",Globo TV Rio Sul HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2336
+#EXTINF:-1 channel-id="555" tvg-id="Tvsergipe.br" tvg-name="Tvsergipe.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo TV Sergipe HD" group-title="Canais | Globo Nordeste",Globo TV Sergipe HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2442
+#EXTINF:-1 channel-id="556" tvg-id="Globosp.br" tvg-name="Globosp.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo TV Subae  HD" group-title="Canais | Globo Nordeste",Globo TV Subae  HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2314
+#EXTINF:-1 channel-id="557" tvg-id="Globosp.br" tvg-name="Globosp.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo TV Sudoeste HD" group-title="Canais | Globo Nordeste",Globo TV Sudoeste HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2430
+#EXTINF:-1 channel-id="558" tvg-id="Tvtembauru.br" tvg-name="Tvtembauru.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo TV TEM Bauru HD" group-title="Canais | Globo Sudeste",Globo TV TEM Bauru HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2418
+#EXTINF:-1 channel-id="559" tvg-id="Tvtembauru.br" tvg-name="Tvtembauru.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo TV TEM Itapetininga HD" group-title="Canais | Globo Sudeste",Globo TV TEM Itapetininga HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2406
+#EXTINF:-1 channel-id="560" tvg-id="Tvtembauru.br" tvg-name="Tvtembauru.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo TV TEM Sao Jose do Rio Preto HD" group-title="Canais | Globo Sudeste",Globo TV TEM Sao Jose do Rio Preto HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2397
+#EXTINF:-1 channel-id="561" tvg-id="Tvtembauru.br" tvg-name="Tvtembauru.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo TV TEM Sorocaba HD" group-title="Canais | Globo Sudeste",Globo TV TEM Sorocaba HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2339
+#EXTINF:-1 channel-id="562" tvg-id="Tvtribuna.br" tvg-name="Tvtribuna.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo TV Tribuna Santos HD" group-title="Canais | Globo Sudeste",Globo TV Tribuna Santos HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2342
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 channel-id="GLOBO NEWS" tvg-id="Globonews.br" tvg-name="Globonews.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBONEWS.png" group-title="Canais | Noticias",GloboNews
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21244
