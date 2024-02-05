@@ -1,4 +1,4 @@
-sim#EXTM3U url-tvg='https://iptv-org.github.io/epg/guides/pt/mi.tv.xml' 
+#EXTM3U url-tvg='https://iptv-org.github.io/epg/guides/pt/mi.tv.xml' 
 
 #EXTINF: -1 tvg-logo='http://ddsw.xyz:80/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3ypiQ3BYGRgmegOZC7zwTCqf7uLINg_ZIDDkn_IBW2bDYQ.png'  group-title='ABERTOS' , TV BRASIL HD
 http://168.205.87.198:8555/live/1052/123456/141.m3u8
