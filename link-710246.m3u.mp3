@@ -122,10 +122,6 @@ http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21221
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21252
 #EXTINF:-1 channel-id="MTV LIVE" tvg-id="Mtvlive.br" tvg-name="Mtvlive.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MTVLIVE.png" group-title="Canais |  Variedades ",MTV LIVE
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21324
-#EXTINF:-1 channel-id="MTV" tvg-id="Mtv.br" tvg-name="Mtv.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MTV.png" group-title="Canais |  Variedades ",MTV
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21258
-#EXTINF:-1 channel-id="MTVs 00" tvg-id="VH1.br" tvg-name="VH1.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MTV00S.png" group-title="Canais |  Variedades ",MTVs 00
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21289
 #EXTINF:-1 channel-id="Megapix" tvg-id="Megapix.br" tvg-name="Megapix.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MEGAPIX.png" group-title="Canais | Filmes & Series",Megapix
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21257
 #EXTINF:-1 channel-id="Multishow" tvg-id="Multishow.br" tvg-name="Multishow.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MULTISHOW.png" group-title="Canais |  Variedades ",Multishow
