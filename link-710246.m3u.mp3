@@ -1,9 +1,6 @@
 #EXTM3U url-tvg='http://epgpainel.ddns.net/epg.xml' 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://s13.postimg.io/msb5b9u7r/discchannel.png" group-title="Documentarios",Discovery Channel
-https://s.m3u9.top/a2/hls1/discovery/__index.m3u8?mu3zAQc9HC3GbwJq=as0F_ujnR5R-iub6Huv6ig&3U1G7qaTxrPbalZnEx=1707140563
-
 
 #EXTINF:-1 tvg-id="globo.br" tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Canais Abertos",Globo SP
 https://live-01.edge-dinamica-vve-es.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1kaW5hbWljYS12dmUtZXMudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzA3MTk4Nzc5LCJpYXQiOjE3MDcxMTIzNzksImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiOWIwOTMzM2YtZmNkOC00MGRlLWI4NTAtMmQ0MjdiOGU0MjNkIiwicGF0aCI6Ii9udS9mKGk9MikvZ2xvYm8tdml0L3BsYXlsaXN0Lm0zdTgifQ.StKvWXg6lrkRa31VpApxUk143oggPG0LacALwlirM73kjdBN3JlDgzHCyNoHPH_NZOgwwml2LtoVkFoduw5ovy63I_Moe_3bANeey_quTU_ABXNZA-pQzx12vpCPEvhvHCHt_dDn57wwQEX6TmMTq11oFNiwCPf369Dub8a_7hNPQDobItTtHMn_KWI8zW1upctscanDLFnodsfALPzfzQUFOGf4misDogFGf8buWRLXwotFwKI6xWSrk6IEn84j8nGjFurDqXg6kyCDmPyqrAfHzqLEfFCXxcqduQ_UFmH5v86y5JAQsNi50W1k6N99oA_kErRrw6i7bWznrj2h3A/nu/f(i=2)/globo-vit/globo-vit-audio_1=96000-video=2262976.m3u8
@@ -15,5 +12,22 @@ http://link-sbt.com/stream
 http://link-record.com/stream
 
 #EXTINF:-1 tvg-id="band.br" tvg-name="Band" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-br.png" group-title="Canais Abertos",Band
-http://link-band.com
+https://stream-02.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-fe-If7bsNNm6ltPrUf2puyJkkp1PfRulNeFfJgEyNeI)/cloud/3/x83vbd6/s/live-2.m3u8#cell=lnyc
 
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/hbo-br.png" group-title="Canais Pagos",HBO
+http://link-hbo.com/stream
+
+#EXTINF:-1 tvg-id="telecine.br" tvg-name="Telecine" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/telecine-br.png" group-title="Canais Pagos",Telecine
+http://link-telecine.com/stream
+
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/espn-br.png" group-title="Canais Esportivos",ESPN
+http://link-espn.com/stream
+
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/discovery-br.png" group-title="Canais Documentários",Discovery
+https://s.m3u9.top/a2/hls1/discovery/__index.m3u8?mu3zAQc9HC3GbwJq=as0F_ujnR5R-iub6Huv6ig&3U1G7qaTxrPbalZnEx=1707140563
+
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/cinemax-br.png" group-title="Canais Filmes",Cinemax
+http://link-cinemax.com/stream
+
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/cartoonnetwork-br.png" group-title="Canais Infantis",Cartoon Network
+http://link-cartoonnetwork.com/stream
