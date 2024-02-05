@@ -1,4 +1,18 @@
 #EXTM3U
+
+#EXTINF:-1 channel-id="1117" tvg-id="None" tvg-name="None" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3297892:1704504773/bbb-24-png.png" channel-id="BBB 1 SD" group-title="Canais | Big Brother Brasil 24",BBB 1 SD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/298258
+#EXTINF:-1 channel-id="1118" tvg-id="None" tvg-name="None" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3297892:1704504773/bbb-24-png.png" channel-id="BBB 1 HD" group-title="Canais | Big Brother Brasil 24",BBB 1 HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/298259
+#EXTINF:-1 channel-id="1119" tvg-id="None" tvg-name="None" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3297892:1704504773/bbb-24-png.png" channel-id="BBB 1 FHD" group-title="Canais | Big Brother Brasil 24",BBB 1 FHD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/298260
+#EXTINF:-1 channel-id="1120" tvg-id="None" tvg-name="None" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3297892:1704504773/bbb-24-png.png" channel-id="BBB 2 SD" group-title="Canais | Big Brother Brasil 24",BBB 2 SD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/298261
+#EXTINF:-1 channel-id="1121" tvg-id="None" tvg-name="None" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3297892:1704504773/bbb-24-png.png" channel-id="BBB 2 HD" group-title="Canais | Big Brother Brasil 24",BBB 2 HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/298262
+#EXTINF:-1 channel-id="1122" tvg-id="None" tvg-name="None" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3297892:1704504773/bbb-24-png.png" channel-id="BBB 2 FHD" group-title="Canais | Big Brother Brasil 24",BBB 2 FHD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/298263
+
 #EXTINF:-1 channel-id="AE" tvg-id="Ae.br" tvg-name="Ae.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/A&E.png" group-title="Canais | Filmes & Series",A&E
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21292
 #EXTINF:-1 channel-id="AMC" tvg-id="Amc.br" tvg-name="Amc.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AMC.png" group-title="Canais | Filmes & Series",AMC
