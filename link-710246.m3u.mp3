@@ -28,7 +28,7 @@ http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21226
 
 #EXTINF:-1 channel-id="Band News" tvg-id="Bandnews.br" tvg-name="Bandnews.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BANDNEWS.png" group-title="Canais | Noticias",Band News
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21224
-#EXTINF:-1 channel-id="Band SP" tvg-id="Band.br" tvg-name="Band.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png" group-title=" Canais | Band",Band SP
+#EXTINF:-1 channel-id="Band SP" tvg-id="Bandeirantes.br" tvg-name="Bandeirantes.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png" group-title=" Canais | Band",Band SP
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/255466
 #EXTINF:-1 channel-id="Band Sports" tvg-id="Bandsportshd.br" tvg-name="Bandsportshd.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/234278
