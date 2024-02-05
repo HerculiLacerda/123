@@ -1,26 +1,19 @@
 #EXTM3U url-tvg='http://epgpainel.ddns.net/epg.xml' 
 
 
-
-#EXTINF:-1 tvg-id="SBT [Brazil]" tvg-name="SBT" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais Abertos",SBT
-http://revmviptvbr.ddns.net:25461/live/bolofrito/374637843/36.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://s13.postimg.io/msb5b9u7r/discchannel.png" group-title="Documentarios",Discovery Channel
 https://s.m3u9.top/a2/hls1/discovery/__index.m3u8?mu3zAQc9HC3GbwJq=as0F_ujnR5R-iub6Huv6ig&3U1G7qaTxrPbalZnEx=1707140563
 
 
-
-#EXTM3U
-
-#EXTINF:-1 tvg-id="globo-br" tvg-name="Globo" tvg-logo="globo-logo.png" group-title="Canais Abertos",Globo SP
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Canais Abertos",Globo SP
 https://live-01.edge-dinamica-vve-es.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1kaW5hbWljYS12dmUtZXMudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzA3MTk4Nzc5LCJpYXQiOjE3MDcxMTIzNzksImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiOWIwOTMzM2YtZmNkOC00MGRlLWI4NTAtMmQ0MjdiOGU0MjNkIiwicGF0aCI6Ii9udS9mKGk9MikvZ2xvYm8tdml0L3BsYXlsaXN0Lm0zdTgifQ.StKvWXg6lrkRa31VpApxUk143oggPG0LacALwlirM73kjdBN3JlDgzHCyNoHPH_NZOgwwml2LtoVkFoduw5ovy63I_Moe_3bANeey_quTU_ABXNZA-pQzx12vpCPEvhvHCHt_dDn57wwQEX6TmMTq11oFNiwCPf369Dub8a_7hNPQDobItTtHMn_KWI8zW1upctscanDLFnodsfALPzfzQUFOGf4misDogFGf8buWRLXwotFwKI6xWSrk6IEn84j8nGjFurDqXg6kyCDmPyqrAfHzqLEfFCXxcqduQ_UFmH5v86y5JAQsNi50W1k6N99oA_kErRrw6i7bWznrj2h3A/nu/f(i=2)/globo-vit/globo-vit-audio_1=96000-video=2262976.m3u8
 
-#EXTINF:-1 tvg-id="sbt-br" tvg-name="SBT" tvg-logo="sbt-logo.png" group-title="Canais Abertos",SBT
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sbt-br.png" group-title="Canais Abertos",SBT
 http://link-sbt.com/stream
 
-#EXTINF:-1 tvg-id="record-br" tvg-name="Record TV" tvg-logo="record-logo.png" group-title="Canais Abertos",Record TV
+#EXTINF:-1 tvg-id="record.br" tvg-name="Record TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/record-tv-br.png" group-title="Canais Abertos",Record TV
 http://link-record.com/stream
 
-#EXTINF:-1 tvg-id="band-br" tvg-name="Band" tvg-logo="band-logo.png" group-title="Canais Abertos",Band
-http://link-band.com/stream
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-br.png" group-title="Canais Abertos",Band
+http://link-band.com
 
