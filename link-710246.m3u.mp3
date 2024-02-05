@@ -1,120 +1,220 @@
 #EXTM3U
 
-#EXTTVGUIDE:http://epgpainel.ddns.net/epg.xml
-
-
-#EXTINF:-1 channel-id="AXN" tvg-id="axn.br" tvg-name="axn.br" tvg-logo="http://ucsxiptv.com:8080/images/logos/122b692dafbc0c6c96e99120afa1d0c8.png" group-title="Canais |",AXN
-http://seltz.site:80/HallysonBruno/hfhchfbhy/110994
-
-#EXTINF:-1 tvg-id="band.br" tvg-name="Band" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-br.png" group-title="Canais Abertos",Band
-https://stream-02.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-fe-If7bsNNm6ltPrUf2puyJkkp1PfRulNeFfJgEyNeI)/cloud/3/x83vbd6/s/live-2.m3u8#cell=lnyc
-
-#EXTINF:-1 channel-id="Acompanhe a Casa" tvg-id="None" tvg-name="None" tvg-logo="https://horadafofoca.com.br/wp-content/uploads/2023/10/dois-3-1.png" group-title="Canais | BBB 2024", BBB
-http://s.m3u9.top/a2/hls1/bbb24s01/__index.m3u8?mu3zAQc9HC3GbwJq=V2R_uJWjgCMcd7gCsyTX5w&3U1G7qaTxrPbalZnEx=1707146825
-
-#EXTINF:-1 channel-id="Animal Planet" tvg-id="animal.planet.br" tvg-name="animal.planet.br" tvg-logo="http://ucsxiptv.com:8080/images/206f85bae8d3e6fa73aff13b76280347.png" group-title="Canais |",Animal Planet
-http://seltz.site:80/HallysonBruno/hfhchfbhy/97167
-
-#EXTINF:-1 channel-id="CNN Brasil" tvg-id="cnn.brasil.br" tvg-name="cnn.brasil.br" tvg-logo="http://ucsxiptv.com:8080/images/logos/cnn-brasil-logo.png" group-title="Canais |",CNN Brasil
-http://seltz.site:80/HallysonBruno/hfhchfbhy/110992
-
-#EXTINF:-1 channel-id="Cartoon Network" tvg-id="cartoon.network.br" tvg-name="cartoon.network.br" tvg-logo="https://i.imgur.com/uMdTdEQ.png" group-title="Canais |",Cartoon Network
-http://seltz.site:80/HallysonBruno/hfhchfbhy/97234
-
-#EXTINF:-1 channel-id="Combate" tvg-id="combate.br" tvg-name="combate.br" tvg-logo="http://ucsxiptv.com:8080/images/logos/Premiere_combate.png" group-title="Canais |",Combate
-http://seltz.site:80/HallysonBruno/hfhchfbhy/97282
-
-#EXTINF:-1 channel-id="Comedy Central" tvg-id="comedy.central.br" tvg-name="comedy.central.br" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/158.png" group-title="Canais |",Comedy Central
-http://seltz.site:80/HallysonBruno/hfhchfbhy/110991
-
-#EXTINF:-1 channel-id="Discovery Channel" tvg-id="discovery.br" tvg-name="discovery.br" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_DSICOVERY.png" group-title="Canais |",Discovery Channel
-https://s.m3u9.top/a2/hls1/discovery/__index.m3u8?mu3zAQc9HC3GbwJq=GXRLPxQRniI88QOKxb9rHg&3U1G7qaTxrPbalZnEx=1707170864
-https://tvembed.net/d-world/index.m3u8?token=201c08a229687053c7c8b21dfda19eae71105bd3-6a1690250fc72510b59931a438ae9429-1707158733-1707151533&remote=138.99.35.11
-
-#EXTINF:-1 channel-id="Discovery Home & Health" tvg-id="discovery.home.health.br" tvg-name="discovery.home.health.br" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_HH.png41" group-title="Canais |",Discovery Home & Health
-http://seltz.site:80/HallysonBruno/hfhchfbhy/110990
-
-#EXTINF:-1 channel-id="Discovery Turbo" tvg-id="discovery.turbo.br" tvg-name="discovery.turbo.br" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_TURBO.jpg" group-title="Canais |",Discovery Turbo
-http://seltz.site:80/HallysonBruno/hfhchfbhy/110989
-
-#EXTINF:-1 channel-id="ESPN 4 " tvg-id="espn.brasil.br" tvg-name="espn.brasil.br" tvg-logo="https://a.espncdn.com/redesign/assets/img/logos/logo-espn-90x22@2x.png" group-title="Canais |",ESPN 4 
-http://seltz.site:80/HallysonBruno/hfhchfbhy/97492
-
-#EXTINF:-1 channel-id="ESPN" tvg-id="espn.br" tvg-name="espn.br" tvg-logo="https://a.espncdn.com/redesign/assets/img/logos/logo-espn-90x22@2x.png" group-title="Canais |",ESPN
-http://seltz.site:80/HallysonBruno/hfhchfbhy/100336
-
-#EXTINF:-1 channel-id="GNT" tvg-id="gnt.br" tvg-name="gnt.br" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_GNT.png" group-title="Canais |",GNT
-http://seltz.site:80/HallysonBruno/hfhchfbhy/100334
-
-#EXTINF:-1 channel-id="Globo" tvg-id="globo.br" tvg-name="globo.br" tvg-logo="https://www.sky.com.br/documents/1407842/0/99x38_LOGO_SKY_GLOBO.png" group-title="Canais |",Globo
+##EXTINF:-1 channel-id="A&E" tvg-id="Ae.br" tvg-name="Ae.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/A&E.png" group-title="Canais | Filmes & Series",A&E
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21292
+##EXTINF:-1 channel-id="AMC" tvg-id="Amc.br" tvg-name="Amc.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AMC.png" group-title="Canais | Filmes & Series",AMC
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/59171
+##EXTINF:-1 channel-id="AXN" tvg-id="Axn.br" tvg-name="Axn.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AXN.png" group-title="Canais | Filmes & Series",AXN
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21223
+##EXTINF:-1 channel-id="Animal Planet" tvg-id="Animalplanet.br" tvg-name="Animalplanet.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/22305
+##EXTINF:-1 channel-id="Arte 1" tvg-id="Arte1.br" tvg-name="Arte1.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ARTE1.png" group-title="Canais | Documentarios",Arte 1
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21222
+##EXTINF:-1 channel-id="BIS" tvg-id="Bishd.br" tvg-name="Bishd.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BIS.png" group-title="Canais |  Variedades ",BIS
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21226
+##EXTINF:-1 channel-id="BJJ STARS" tvg-id="Combatehd.br" tvg-name="Combatehd.br" tvg-logo="https://yt3.googleusercontent.com/5qffzzZVV45NzgJ_wu-xlvXN-BSHWKW15goDi1QJcVIna8Seu-9PMGWOBCLuz6QAlZE0byNrMw=s900-c-k-c0x00ffffff-no-rj" group-title="Canais | Pay-per-view",BJJ STARS
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/250890
+##EXTINF:-1 channel-id="Band News" tvg-id="Bandnews.br" tvg-name="Bandnews.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BANDNEWS.png" group-title="Canais | Noticias",Band News
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21224
+##EXTINF:-1 channel-id="Band SP" tvg-id="BandRede.br" tvg-name="BandRede.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png" group-title=" Canais | Band",Band SP
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/255466
+##EXTINF:-1 channel-id="Band Sports 4K" tvg-id="Bandsportshd.br" tvg-name="Bandsportshd.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports 4K
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/234278
+##EXTINF:-1 channel-id="Band Sports" tvg-id="Bandsportshd.br" tvg-name="Bandsportshd.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21225
+##EXTINF:-1 channel-id="CNN Brasil" tvg-id="Cnnbrasil.br" tvg-name="Cnnbrasil.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Brasil
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21353
+##EXTINF:-1 channel-id="Canal Sony" tvg-id="Sony.br" tvg-name="Sony.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SONYCHANNEL.png" group-title="Canais | Filmes & Series",Canal Sony
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21229
+##EXTINF:-1 channel-id="Cartoon Network" tvg-id="Cartoonnetwork.br" tvg-name="Cartoonnetwork.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CARTOONNETWORK.png" group-title="Canais | Infantil",Cartoon Network
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21230
+##EXTINF:-1 channel-id="CazeTV" tvg-id="CazeTV.br" tvg-name="CazeTV.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CAZETV.png" group-title="Canais | Pay-per-view",CazeTV
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/254103
+##EXTINF:-1 channel-id="Cinemax" tvg-id="Cinemax.br" tvg-name="Cinemax.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CINEMAX.png" group-title="Canais | Filmes & Series",Cinemax
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21231
+##EXTINF:-1 channel-id="Combate" tvg-id="Combatehd.br" tvg-name="Combatehd.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/COMBATE.png" group-title="Canais | Esportes",Combate
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21232
+##EXTINF:-1 channel-id="Comedy Central" tvg-id="Comedycentral.br" tvg-name="Comedycentral.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/COMEDYCENTRAL.png" group-title="Canais | Filmes & Series",Comedy Central
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21233
+##EXTINF:-1 channel-id="Curta!" tvg-id="Curta.br" tvg-name="Curta.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CURTA!.jpg" group-title="Canais | Documentarios",Curta!
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21234
+##EXTINF:-1 channel-id="Disc. Channel" tvg-id="Discovery.br" tvg-name="Discovery.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | Discovery",Disc. Channel
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21338
+##EXTINF:-1 channel-id="Disc. Home &  Health" tvg-id="Homehealth.br" tvg-name="Homehealth.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | Discovery",Disc. Home &  Health
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21295
+##EXTINF:-1 channel-id="Disc. Science" tvg-id="DiscoveryScience.br" tvg-name="DiscoveryScience.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYSCIENCE.png" group-title="Canais | Discovery",Disc. Science
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21297
+##EXTINF:-1 channel-id="Disc. Theater" tvg-id="Hdtheater.br" tvg-name="Hdtheater.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTHEATER.png" group-title="Canais | Discovery",Disc. Theater
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21298
+##EXTINF:-1 channel-id="Disc. Turbo" tvg-id="Discturbohd.br" tvg-name="Discturbohd.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTURBO.png" group-title="Canais | Discovery",Disc. Turbo
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21299
+##EXTINF:-1 channel-id="Disc. World" tvg-id="Discoveryworldhd.br" tvg-name="Discoveryworldhd.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYWORLD.png" group-title="Canais | Discovery",Disc. World
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21300
+##EXTINF:-1 channel-id="Disney Channel" tvg-id="Discovery.br" tvg-name="Discovery.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISNEYCHANNEL.png" group-title="Canais | Infantil",Disney Channel
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/360
+##EXTINF:-1 channel-id="E!" tvg-id="E.br" tvg-name="E.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/E!.png" group-title="Canais |  Variedades ",E!
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21313
+##EXTINF:-1 channel-id="ESPN Extra" tvg-id="Espnextra.br" tvg-name="Espnextra.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN Extra
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21236
+##EXTINF:-1 channel-id="ESPN" tvg-id="ESPNInternational.br" tvg-name="ESPNInternational.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21315
+##EXTINF:-1 channel-id="ESPN2" tvg-id="ESPNInternational.br" tvg-name="ESPNInternational.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN2
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/52091
+##EXTINF:-1 channel-id="ESPN3" tvg-id="ESPN+.br" tvg-name="ESPN+.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN3
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21235
+##EXTINF:-1 channel-id="ESPN4" tvg-id="Foxsports.br" tvg-name="Foxsports.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN4
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21318
+##EXTINF:-1 channel-id="FOX Sports 2" tvg-id="Foxsports2.br" tvg-name="Foxsports2.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FOXSPORTS.png" group-title="Canais | Esportes",FOX Sports 2
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21317
+##EXTINF:-1 channel-id="FX" tvg-id="Fx.br" tvg-name="Fx.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FX.jpg" group-title="Canais | Star Channel",FX
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21243
+##EXTINF:-1 channel-id="Fish TV" tvg-id="Fishtv.br" tvg-name="Fishtv.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FISHTV.png" group-title="Canais | Esportes",Fish TV
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21316
+##EXTINF:-1 channel-id="Food Network" tvg-id="Foodnetworkhd.br" tvg-name="Foodnetworkhd.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FOODNETWORK.png" group-title="Canais |  Variedades ",Food Network
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21237
+##EXTINF:-1 channel-id="Furacao Live" tvg-id="CazeTV.br" tvg-name="CazeTV.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/REDEFURACAO.png" group-title="Canais | Pay-per-view",Furacao Live
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/254097
+##EXTINF:-1 channel-id="GNT" tvg-id="Gnt.br" tvg-name="Gnt.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GNT.png" group-title="Canais |  Variedades ",GNT
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21321
+##EXTINF:-1 channel-id="Globo EPTV Campinas" tvg-id="Globosp.br" tvg-name="Globosp.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo EPTV Campinas
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21340
+##EXTINF:-1 channel-id="Globo EPTV Ribeirão Preto" tvg-id="Globosp.br" tvg-name="Globosp.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo EPTV Ribeirão Preto
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21344
+##EXTINF:-1 channel-id="Globo Minas" tvg-id="Globominas.br" tvg-name="Globominas.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo Minas
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21341
+##EXTINF:-1 channel-id="Globo Nordeste" tvg-id="Globorecife.br" tvg-name="Globorecife.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo Nordeste
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21342
+##EXTINF:-1 channel-id="Globo RJ" tvg-id="Globorj.br" tvg-name="Globorj.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo ES
 https://live-01.edge-dinamica-vve-es.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1kaW5hbWljYS12dmUtZXMudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzA3MTk4Nzc5LCJpYXQiOjE3MDcxMTIzNzksImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiOWIwOTMzM2YtZmNkOC00MGRlLWI4NTAtMmQ0MjdiOGU0MjNkIiwicGF0aCI6Ii9udS9mKGk9MikvZ2xvYm8tdml0L3BsYXlsaXN0Lm0zdTgifQ.StKvWXg6lrkRa31VpApxUk143oggPG0LacALwlirM73kjdBN3JlDgzHCyNoHPH_NZOgwwml2LtoVkFoduw5ovy63I_Moe_3bANeey_quTU_ABXNZA-pQzx12vpCPEvhvHCHt_dDn57wwQEX6TmMTq11oFNiwCPf369Dub8a_7hNPQDobItTtHMn_KWI8zW1upctscanDLFnodsfALPzfzQUFOGf4misDogFGf8buWRLXwotFwKI6xWSrk6IEn84j8nGjFurDqXg6kyCDmPyqrAfHzqLEfFCXxcqduQ_UFmH5v86y5JAQsNi50W1k6N99oA_kErRrw6i7bWznrj2h3A/nu/f(i=2)/globo-vit/globo-vit-audio_1=96000-video=2262976.m3u8
 
-#EXTINF:-1 channel-id="Globo News" tvg-id="globo.news.br" tvg-name="globo.news.br" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/40.png" group-title="Canais |",Globo News
-http://seltz.site:80/HallysonBruno/hfhchfbhy/100335
-
-#EXTINF:-1 channel-id="HBO" tvg-id="hbo.br" tvg-name="hbo.br" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais |",HBO
-http://seltz.site:80/HallysonBruno/hfhchfbhy/100333
-
-#EXTINF:-1 channel-id="Megapix" tvg-id="megapix.br" tvg-name="megapix.br" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/107.png" group-title="Canais |",Megapix
-http://seltz.site:80/HallysonBruno/hfhchfbhy/97347
-
-#EXTINF:-1 channel-id="Multishow" tvg-id="multishow.br" tvg-name="multishow.br" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_MULTISHOW.png" group-title="Canais |",Multishow
-http://seltz.site:80/HallysonBruno/hfhchfbhy/97615
-
-#EXTINF:-1 channel-id="Premiere Clubes" tvg-id="premiere.clubes.br" tvg-name="premiere.clubes.br" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_PREMIERE.png" group-title="Canais |",Premiere Clubes
+##EXTINF:-1 channel-id="Globo SP" tvg-id="Globosp.br" tvg-name="Globosp.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo SP
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/289882
+##EXTINF:-1 channel-id="GloboNews" tvg-id="Globonews.br" tvg-name="Globonews.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBONEWS.png" group-title="Canais | Noticias",GloboNews
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21244
+##EXTINF:-1 channel-id="HBO +" tvg-id="Hboplus.br" tvg-name="Hboplus.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO +
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21249
+##EXTINF:-1 channel-id="HBO 2" tvg-id="Hbo2.br" tvg-name="Hbo2.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO 2
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21246
+##EXTINF:-1 channel-id="HBO FAMILY" tvg-id="Hbofamily.br" tvg-name="Hbofamily.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO FAMILY
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21247
+##EXTINF:-1 channel-id="HBO MUNDI" tvg-id="Max.br" tvg-name="Max.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO MUNDI
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21254
+##EXTINF:-1 channel-id="HBO POP" tvg-id="Maxup.br" tvg-name="Maxup.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO POP
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21256
+##EXTINF:-1 channel-id="HBO SIGNATURE" tvg-id="Hbosignature.br" tvg-name="Hbosignature.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO SIGNATURE
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21250
+##EXTINF:-1 channel-id="HBO" tvg-id="Hbo.br" tvg-name="Hbo.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21248
+##EXTINF:-1 channel-id="HBO XTREME" tvg-id="Maxprime.br" tvg-name="Maxprime.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO XTREME
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21255
+##EXTINF:-1 channel-id="HGTV" tvg-id="DiscoveryCivilization.br" tvg-name="DiscoveryCivilization.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HGTV.png" group-title="Canais | Documentarios",HGTV
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21294
+##EXTINF:-1 channel-id="History 2" tvg-id="H2.br" tvg-name="H2.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History 2
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21322
+##EXTINF:-1 channel-id="History" tvg-id="Historychannel.br" tvg-name="Historychannel.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/59173
+##EXTINF:-1 channel-id="ID" tvg-id="Investigacaodiscoveryid.br" tvg-name="Investigacaodiscoveryid.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ID.png" group-title="Canais | Documentarios",ID
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21323
+##EXTINF:-1 channel-id="Jovem Pan News" tvg-id="Jpnews.br" tvg-name="Jpnews.br" tvg-logo="https://media.jovempan.com.br/uploads/2018/07/JPNews-imagem-pagina-e1530887165749.png" group-title="Canais | Noticias",Jovem Pan News
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21221
+##EXTINF:-1 channel-id="Lifetime" tvg-id="Lifetime.br" tvg-name="Lifetime.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/LIFETIME.png" group-title="Canais |  Variedades ",Lifetime
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21252
+##EXTINF:-1 channel-id="MTV LIVE" tvg-id="Mtvlive.br" tvg-name="Mtvlive.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MTVLIVE.png" group-title="Canais |  Variedades ",MTV LIVE
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21324
+##EXTINF:-1 channel-id="MTV" tvg-id="Mtv.br" tvg-name="Mtv.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MTV.png" group-title="Canais |  Variedades ",MTV
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21258
+##EXTINF:-1 channel-id="MTVs 00" tvg-id="VH1.br" tvg-name="VH1.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MTV00S.png" group-title="Canais |  Variedades ",MTVs 00
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21289
+##EXTINF:-1 channel-id="Megapix" tvg-id="Megapix.br" tvg-name="Megapix.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MEGAPIX.png" group-title="Canais | Filmes & Series",Megapix
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21257
+##EXTINF:-1 channel-id="Multishow" tvg-id="Multishow.br" tvg-name="Multishow.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MULTISHOW.png" group-title="Canais |  Variedades ",Multishow
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21325
+##EXTINF:-1 channel-id="National Geographic" tvg-id="Nationalgeographic.br" tvg-name="Nationalgeographic.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NATGEO.png" group-title="Canais | Documentarios",National Geographic
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21260
+##EXTINF:-1 channel-id="Nickelodeon" tvg-id="Nickelodeon.br" tvg-name="Nickelodeon.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKELODEON.png" group-title="Canais | Infantil",Nickelodeon
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21263
+##EXTINF:-1 channel-id="OFF" tvg-id="Off.br" tvg-name="Off.br" tvg-logo="https://i.imgur.com/6FAkXm9.png" group-title="Canais | Esportes",OFF
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21264
+##EXTINF:-1 channel-id="Paramount + 1." tvg-id="Paramountplus.br" tvg-name="Paramountplus.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PARAMOUNTPLUS.png" group-title="Canais | Paramount + ",Paramount + 1.
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/250562
+##EXTINF:-1 channel-id="Paramount + 3" tvg-id="None" tvg-name="None" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PARAMOUNTPLUS.png" group-title="Canais | Paramount + ",Paramount + 3
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/250571
+##EXTINF:-1 channel-id="Paramount + 3." tvg-id="None" tvg-name="None" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PARAMOUNTPLUS.png" group-title="Canais | Paramount + ",Paramount + 3.
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/250573
+##EXTINF:-1 channel-id="Paramount Network" tvg-id="Paramounthd.br" tvg-name="Paramounthd.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PARAMOUNTNETWORK.png" group-title="Canais | Filmes & Series",Paramount Network
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21265
+##EXTINF:-1 channel-id="Premiere 2" tvg-id="Premiere2.br" tvg-name="Premiere2.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 2
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21266
+##EXTINF:-1 channel-id="Premiere 3" tvg-id="Premiere3.br" tvg-name="Premiere3.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 3
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21267
+##EXTINF:-1 channel-id="Premiere 4" tvg-id="Premiere4.br" tvg-name="Premiere4.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 4
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21327
+##EXTINF:-1 channel-id="Premiere 5" tvg-id="Premiere5.br" tvg-name="Premiere5.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 5
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21268
+##EXTINF:-1 channel-id="Premiere 6" tvg-id="Premiere6.br" tvg-name="Premiere6.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 6
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21328
+##EXTINF:-1 channel-id="Premiere 7" tvg-id="Premiere7.br" tvg-name="Premiere7.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere 7
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21329
+##EXTINF:-1 channel-id="Premiere Clubes" tvg-id="Premierefchd.br" tvg-name="Premierefchd.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Canais | Premiere",Premiere Clubes
 https://live-01.edge-dinamica-vve-es.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1kaW5hbWljYS12dmUtZXMudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzA3MjI4OTI2LCJpYXQiOjE3MDcxNDI1MjYsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNDI3N2IxOTYtM2QzOS00ZDYyLWE1ZTUtOGYzOWViMjNkYWVmIiwicGF0aCI6Ii9udS9mKGk9MikvcGZjMS9wbGF5bGlzdC5tM3U4In0.bMm8SCbra9y11dBc9syub7J2-PKF6T3CpocacAfCjai4vaPVoByvQ-yDuynlLxD_Adg6zlHPnpbpaI5cquVXRQLXqwnbo5QQRemoHK536xjReXJg0AUkQx7RMVRW6e_OnANP86TEvtI6OIhcx45kNczraO8-6K6Tx-5YazoK1-H_t-MdX0nWU7oU606AIO--cZxBweMYCbyuHwSl9io8q9n_pPTe9SEBfjc0or5xAHp4gr4cT6jGPYDEEuoH1FWiliC_yROtAdRBAKtWuJIXQjq903mYfyZpQfg4FxXq6_291bgL8sFSJngTyis7L5HyUpV-v_L_96tdma--BzedGQ/nu/f(i=2)/pfc1/playlist.m3u8?originpath=/linear/hls/pa/event/Ffi7XeMFQw6Je1dIVPz0JA/stream/71c50892-d65b-46b5-9fcc-3b30755a4d50:SCL/variant/bffffc21da403a14af2f9b0f35e4f2f5/bandwidth/4385000.m3u8
 
-#EXTINF:-1 channel-id="RECORD SP" tvg-id="record.br" tvg-name="record.br" tvg-logo="http://ucsxiptv.com:8080/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="Canais |",Record
-http://seltz.site:80/HallysonBruno/hfhchfbhy/97132
-
-#EXTINF:-1 channel-id="SBT" tvg-id="sbt.br" tvg-name="sbt.br" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title=" Canais | SBT",SBT
-http://seltz.site:80/HallysonBruno/hfhchfbhy/469477
-
-#EXTINF:-1 channel-id="SBT  SP" tvg-id="sbt.br" tvg-name="sbt.br" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_CHN_SBT.png" group-title="Canais |",SBT  SP
-http://seltz.site:80/HallysonBruno/hfhchfbhy/109627
-
-#EXTINF:-1 channel-id="SPORTV " tvg-id="sportv.br" tvg-name="sportv.br" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_SPORTTV.png" group-title="Canais |",Sportv
-https://s.m3u9.top/a2/hls1/sportv1/__index.m3u8?mu3zAQc9HC3GbwJq=UR2QF_6JCIvTLra9kj77uA&3U1G7qaTxrPbalZnEx=1707179709
-
-#EXTINF:-1 channel-id="Star Channel" tvg-id="star.br" tvg-name="star.br" tvg-logo="https://digitalapi.sky.com.br/logos/channels/541.png" group-title="Canais |",Star Channel
-http://seltz.site:80/HallysonBruno/hfhchfbhy/97571
-
-#EXTINF:-1 channel-id="TNT" tvg-id="tnt.br" tvg-name="tnt.br" tvg-logo="http://ucsxiptv.com:8080/images/be5bfe94570a31b3728b4c2dff9425fa.png" group-title="Canais |",TNT
-http://seltz.site:80/HallysonBruno/hfhchfbhy/97248
-
-#EXTINF:-1 channel-id="TNT Series" tvg-id="tnt.series.br" tvg-name="tnt.series.br" tvg-logo="http://ucsxiptv.com:8080/images/33e1d5417c9d76d74f31a82e8e81f712.png" group-title="Canais |",TNT Series
-http://seltz.site:80/HallysonBruno/hfhchfbhy/97254
-
-#EXTINF:-1 channel-id="Telecine Action" tvg-id="telecine.action.br" tvg-name="telecine.action.br" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x78_IMG_SKY_TC_ACTION_BLACK.png" group-title="Canais |",Telecine Action
-http://seltz.site:80/HallysonBruno/hfhchfbhy/100328
-
-#EXTINF:-1 channel-id="Telecine Pipoca" tvg-id="telecine.pipoca.br" tvg-name="telecine.pipoca.br" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x78_IMG_SKY_TC_PIPOCA_BLACK.png" group-title="Canais |",Telecine Pipoca
-http://seltz.site:80/HallysonBruno/hfhchfbhy/100329
-
-#EXTINF:-1 channel-id="Telecine Premium" tvg-id="telecine.premium.br" tvg-name="telecine.premium.br" tvg-logo="http://ucsxiptv.com:8080/images/876e229e5252d62ec26916d99fe14da6.png" group-title="Canais |",Telecine Premium
-http://seltz.site:80/HallysonBruno/hfhchfbhy/97588
-
-#EXTINF:-1 channel-id="Universal Tv" tvg-id="universal.br" tvg-name="universal.br" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/140.png" group-title="Canais |",Universal Tv
-http://seltz.site:80/HallysonBruno/hfhchfbhy/100327
-
-
-#EXTINF:-1 tvg-logo="" group-title="",24HS FUTURAMA³
-http://milka99.xyz:80/097543511553/726840449033/73413
-#EXTINF:-1 tvg-logo="" group-title="",HBO 2
-http://superblazertop.com.br.global.prod.fastly.net:80/live/hbo2/play2.m3u8?ManoTV
-#EXTINF:-1 tvg-logo="" group-title="",DISNEY CHANNEL
-http://mn.appserv19.xyz:2095/Xplus-1-tK6WShEj8D/p0uJvrxmUR/352
-#EXTINF:-1 tvg-logo="" group-title="",SPORTV
-http://209.222.97.92:16525/
-#EXTINF:-1 tvg-logo="" group-title="",TNT
-https://cdn-1.nxplay.com.br/TNT_TK/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",TNT SERIES
-http://superblazertop.com.br.global.prod.fastly.net:80/live/tntseries/play2.m3u8?ManoTV
-#EXTINF:-1 tvg-logo="" group-title="",TNT HD
-http://mn.appserv19.xyz:2095/Xplus-1-tK6WShEj8D/p0uJvrxmUR/1004
-#EXTINF:-1 tvg-logo="" group-title="",BRASIL | DISCOVERY SCIENCE  HD
-http://castlempire.site:8080/UserTest2Octubre_00z/bqCs7jw4KQJa/190022
-#EXTINF:-1 tvg-logo="" group-title="",HISTORY 2 HD
-http://cdn.connectbr.com.br/h2/playlist.m3u8?ManoTV
-#EXTINF:-1 tvg-logo="" group-title="",TELECINE FUN
-http://mn.appserv19.xyz:2095/Xplus-1-tK6WShEj8D/p0uJvrxmUR/300
+##EXTINF:-1 channel-id="Record News" tvg-id="Recordnews.br" tvg-name="Recordnews.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDNEWS.png" group-title="Canais | Noticias",Record News
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/118889
+##EXTINF:-1 channel-id="RecordTV RS" tvg-id="Recordrs.br" tvg-name="Recordrs.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV RS
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/244108
+##EXTINF:-1 channel-id="RecordTV SP" tvg-id="Rederecord.br" tvg-name="Rederecord.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV SP
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/244073
+##EXTINF:-1 channel-id="SBT SP" tvg-id="Sbt.br" tvg-name="Sbt.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT SP
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/244164
+##EXTINF:-1 channel-id="SYFY" tvg-id="Cineskyplay.br" tvg-name="Cineskyplay.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SYFY.png" group-title="Canais | Filmes & Series",SYFY
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21277
+##EXTINF:-1 channel-id="Space" tvg-id="Space.br" tvg-name="Space.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPACE.png" group-title="Canais | Filmes & Series",Space
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21272
+##EXTINF:-1 channel-id="SporTV 2" tvg-id="Sportv2.br" tvg-name="Sportv2.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 2
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21273
+##EXTINF:-1 channel-id="SporTV 3" tvg-id="Sportv3.br" tvg-name="Sportv3.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 3
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21274
+##EXTINF:-1 channel-id="SporTV" tvg-id="Sportv.br" tvg-name="Sportv.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21275
+##EXTINF:-1 channel-id="Star + 1" tvg-id="None" tvg-name="None" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="Canais | Star  Sports",Star + 1
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/232231
+##EXTINF:-1 channel-id="Star + 2" tvg-id="None" tvg-name="None" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="Canais | Star  Sports",Star + 2
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/232235
+##EXTINF:-1 channel-id="Star + 3" tvg-id="None" tvg-name="None" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="Canais | Star  Sports",Star + 3
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/232239
+##EXTINF:-1 channel-id="Star + 4" tvg-id="None" tvg-name="None" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="Canais | Star  Sports",Star + 4
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/232244
+##EXTINF:-1 channel-id="Star Channel" tvg-id="Fox.br" tvg-name="Fox.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARCHANNEL.png" group-title="Canais | Star Channel",Star Channel
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21238
+##EXTINF:-1 channel-id="Star Life" tvg-id="Like.br" tvg-name="Like.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="Canais | Star Channel",Star Life
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21239
+##EXTINF:-1 channel-id="Studio Universal" tvg-id="Studiouniversal.br" tvg-name="Studiouniversal.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STUDIOUNIVERSAL.png" group-title="Canais | Filmes & Series",Studio Universal
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21276
+##EXTINF:-1 channel-id="TBS" tvg-id="Tbs.br" tvg-name="Tbs.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TBS.png" group-title="Canais | Filmes & Series",TBS
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21278
+##EXTINF:-1 channel-id="TLC" tvg-id="Tlc.br" tvg-name="Tlc.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TLC.png" group-title="Canais | Filmes & Series",TLC
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21349
+##EXTINF:-1 channel-id="TNT Series" tvg-id="TNTSerie.br" tvg-name="TNTSerie.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNTSERIES.png" group-title="Canais | Filmes & Series",TNT Series
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21286
+##EXTINF:-1 channel-id="TNT" tvg-id="Tnt.br" tvg-name="Tnt.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21285
+##EXTINF:-1 channel-id="Telecine Action" tvg-id="Tcaction.br" tvg-name="Tcaction.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Action
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21279
+##EXTINF:-1 channel-id="Telecine Cult" tvg-id="Tccult.br" tvg-name="Tccult.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Cult
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21280
+##EXTINF:-1 channel-id="Telecine Fun" tvg-id="Tcfun.br" tvg-name="Tcfun.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Fun
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21281
+##EXTINF:-1 channel-id="Telecine Pipoca" tvg-id="Tcpipoca.br" tvg-name="Tcpipoca.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Pipoca
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21282
+##EXTINF:-1 channel-id="Telecine Premium" tvg-id="Tcpremium.br" tvg-name="Tcpremium.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Premium
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21283
+##EXTINF:-1 channel-id="Telecine Touch" tvg-id="Tctouch.br" tvg-name="Tctouch.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Touch
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21284
+##EXTINF:-1 channel-id="Universal TV" tvg-id="Universalchannel.br" tvg-name="Universalchannel.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/UNIVERSALTV.png" group-title="Canais | Filmes & Series",Universal TV
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21288
+##EXTINF:-1 channel-id="Viva" tvg-id="Viva.br" tvg-name="Viva.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/VIVA.png" group-title="Canais |  Variedades ",Viva
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21290
+##EXTINF:-1 channel-id="Warner Channel" tvg-id="Warnerchannel.br" tvg-name="Warnerchannel.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/WARNERCHANNEL.png" group-title="Canais | Filmes & Series",Warner Channel
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21291
+##EXTINF:-1 channel-id="Woohoo" tvg-id="Woohoo.br" tvg-name="Woohoo.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/WOOHOO.png" group-title="Canais |  Variedades ",Woohoo
+#http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21336
