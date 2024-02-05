@@ -151,8 +151,8 @@ http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/8845
 #EXTINF: -1 tvg-logo='https://i.imgur.com/bzJgwGU.png'  group-title='FILMES E SÉRIES' , CINEBRASIL TV
 https://cdn-1.nxplay.com.br/Cinebrasil/index.m3u8
 
-#EXTINF: -1 tvg-logo='https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png'  group-title='ABERTOS' , GLOBO RJ
-http://162.251.62.114:80/6gpyy8e6/5ci36alv/25910
+#EXTINF: -1 tvg-logo='https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png'  group-title='ABERTOS' , GLOBO ESS
+https://live-01.edge-dinamica-vve-es.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1kaW5hbWljYS12dmUtZXMudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzA3MTk4Nzc5LCJpYXQiOjE3MDcxMTIzNzksImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiOWIwOTMzM2YtZmNkOC00MGRlLWI4NTAtMmQ0MjdiOGU0MjNkIiwicGF0aCI6Ii9udS9mKGk9MikvZ2xvYm8tdml0L3BsYXlsaXN0Lm0zdTgifQ.StKvWXg6lrkRa31VpApxUk143oggPG0LacALwlirM73kjdBN3JlDgzHCyNoHPH_NZOgwwml2LtoVkFoduw5ovy63I_Moe_3bANeey_quTU_ABXNZA-pQzx12vpCPEvhvHCHt_dDn57wwQEX6TmMTq11oFNiwCPf369Dub8a_7hNPQDobItTtHMn_KWI8zW1upctscanDLFnodsfALPzfzQUFOGf4misDogFGf8buWRLXwotFwKI6xWSrk6IEn84j8nGjFurDqXg6kyCDmPyqrAfHzqLEfFCXxcqduQ_UFmH5v86y5JAQsNi50W1k6N99oA_kErRrw6i7bWznrj2h3A/nu/f(i=2)/globo-vit/globo-vit-audio_1=96000-video=2262976.m3u8
 
 #EXTINF: -1 tvg-logo='http://tv.playtv.net.br:8880/images/b0f72a7ad15faadb654950e47af467ee.png'  group-title='NOTÍCIAS' , GLOBO NEWS
 http://mn.appserv19.xyz:2095/Xplus-1-tK6WShEj8D/p0uJvrxmUR/498
