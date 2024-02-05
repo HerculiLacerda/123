@@ -124,23 +124,11 @@ http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/69
 #EXTINF: -1 tvg-logo='http://play-tv.net:80/images/32f3121bc314ba06628573737f575b3e.png'  group-title='OUTROS' , FOX SPORTS HD
 http://playfacil.net:80/76399979/27368967/61777
 
-#EXTINF: -1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlEn9H9bY2Wuv57c7gjDNOJO1dy2joddGqiw&usqp=CAU.png'  group-title='NOVELAS' , SONY NOVELA
-https://spt-novelas-1-us.vizio.wurl.tv/4300.m3u8
-
 #EXTINF: -1 tvg-logo='http://go555.xyz:80/images/dc50990e928e5f3fba700fae50970228.png'  group-title='FILMES E SÉRIES' , SONY MOVIES HD³
 http://milka99.xyz:80/069593498368/314545785775/87938
 
 #EXTINF: -1 tvg-logo='https://imgur.com/dlTmblr.png'  group-title='DESENHOS' , CARTOON NETWORK HD
 https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8?ManoTV
-
-#EXTINF: -1 tvg-logo='http://xplussport.com:8080/images/528543010306258943c569ab1afb230f.png'  group-title='DESENHOS' , CARTOONITO
-http://mn.appserv19.xyz:2095/Xplus-1-tK6WShEj8D/p0uJvrxmUR/345
-
-#EXTINF: -1 tvg-logo='https://i.imgur.com/JnHVIgo.png'  group-title='OUTROS' , TASTEMADE | SAMSUNG BRASIL
-https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
-
-#EXTINF: -1 tvg-logo='http://tv.playtv.net.br:8880/images/34d2a68c3180ff6a6812f7155ee838a5.png'  group-title='NOTÍCIAS' , JOVEM PAN NEWS HD
-http://tv.deflextelecom.com.br:8880/live/jean123/jean123/1130.m3u8
 
 #EXTINF: -1 tvg-logo='http://tv.playtv.net.br:8880/images/eadc1bacb17aea28d29fefc19868b5e1.png'  group-title='ABERTOS' , SBT HD
 http://tv.deflextelecom.com.br:8880/live/jean123/jean123/357.m3u8
@@ -301,51 +289,6 @@ http://tv.deflextelecom.com.br:8880/live/jean123/jean123/512.m3u8
 #EXTINF: -1 tvg-logo='http://46.165.222.67:2095/tourobox/cartoon.png'  group-title='DESENHOS' , CARTOON NETWORK
 http://main.xplus2-main.xyz:2095/Tourobox3-7DkVkoEgiD/v2BXS7gsFE/347
 
-#EXTINF: -1 tvg-logo='https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png'  group-title='ABERTOS' , GLOBO RJ
-http://fadder.eletrinho.shop:2095/live/globo/chunks.m3u8?token=1695806038_ba888c90ac33854e66654e32592b526d5d6c5c7d
-
-#EXTINF: -1 tvg-logo='https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1.png'  group-title='ABERTOS' , GLOBO EPTV SUL DE MINAS
-http://pdsrv.io:80/90636642/82193016/113856
-
-#EXTINF: -1 tvg-logo='https://i.imgur.com/rMxFCmg.png'  group-title='ABERTOS' , GLOBO TV TEM SOROCABA FHD
-http://meumd.com:80/11951704933/2020/108907
-
-#EXTINF: -1 tvg-logo='https://i.imgur.com/rMxFCmg.png'  group-title='ABERTOS' , GLOBO TV MORENA HD
-http://meumd.com:80/11951704933/2020/109666
-
-#EXTINF: -1 tvg-logo='https://i.imgur.com/rMxFCmg.png'  group-title='ABERTOS' , GLOBO TV MORENA SD
-http://meumd.com:80/11951704933/2020/109665
-
-#EXTINF: -1 tvg-logo='https://i.imgur.com/rMxFCmg.png'  group-title='ABERTOS' , GLOBO TV LIBERAL BELEM HD
-http://meumd.com:80/11951704933/2020/108887
-
-#EXTINF: -1 tvg-logo='https://i.imgur.com/rMxFCmg.png'  group-title='ABERTOS' , GLOBO TV LIBERAL BELEM SD
-http://meumd.com:80/11951704933/2020/108889
-
-#EXTINF: -1 tvg-logo='https://i.imgur.com/rMxFCmg.png'  group-title='ABERTOS' , GLOBO RPC TV CURITIBA SD
-http://meumd.com:80/11951704933/2020/109722
-
-#EXTINF: -1 tvg-logo='https://i.imgur.com/rMxFCmg.png'  group-title='ABERTOS' , GLOBO RPC TV CURITIBA HD
-http://meumd.com:80/11951704933/2020/109723
-
-#EXTINF: -1 tvg-logo='https://i.imgur.com/rMxFCmg.png'  group-title='ABERTOS' , GLOBO REDE AMAZÔNICA MANAUS S...
-http://meumd.com:80/11951704933/2020/109728
-
-#EXTINF: -1 tvg-logo='https://i.imgur.com/rMxFCmg.png'  group-title='ABERTOS' , GLOBO REDE AMAZÔNICA MANAUS H...
-http://meumd.com:80/11951704933/2020/109729
-
-#EXTINF: -1 tvg-logo='https://i.imgur.com/rMxFCmg.png'  group-title='ABERTOS' , GLOBO RJ SD
-http://meumd.com:80/11951704933/2020/109725
-
-#EXTINF: -1 tvg-logo='https://i.imgur.com/rMxFCmg.png'  group-title='ABERTOS' , GLOBO NORDESTE HD
-http://meumd.com:80/11951704933/2020/109750
-
-#EXTINF: -1 tvg-logo='https://i.imgur.com/rMxFCmg.png'  group-title='ABERTOS' , GLOBO NORDESTE SD
-http://meumd.com:80/11951704933/2020/108875
-
-#EXTINF: -1 tvg-logo='https://i.imgur.com/rMxFCmg.png'  group-title='ABERTOS' , GLOBO BRASILIA HD
-http://meumd.com:80/11951704933/2020/108869
-
 #EXTINF: -1 tvg-logo='https://i.imgur.com/HM13dsp.png'  group-title='NOTÍCIAS' , GLOBO NEWS HD
 http://casaplay.cf:8080/Silvia/Silvia/150245
 
@@ -355,50 +298,9 @@ http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16697
 #EXTINF: -1 tvg-logo='https://logodownload.org/wp-content/uploads/2014/02/band-logo-bandeirantes-tv.png'  group-title='ABERTOS' , BAND
 http://fadder.eletrinho.shop:2095/live/band/chunks.m3u8?token=1695806038_2f57c048ec68300554125c4a38f1cb19f5a2f410
 
-#EXTINF: -1 tvg-logo='https://i.imgur.com/hpOvhVE.png'  group-title='ABERTOS' , BAND MINAS SD
-http://meumd.com:80/11951704933/2020/237280
 
 #EXTINF: -1 tvg-logo='https://i.imgur.com/hpOvhVE.png'  group-title='ABERTOS' , BAND MINAS HD
 http://meumd.com:80/11951704933/2020/237279
-
-#EXTINF: -1 tvg-logo='https://liebeurl.me/logos/band.png'  group-title='ABERTOS' , BAND SP HD
-http://162.251.62.114:80/jairooliveira/Rosangela852/48945
-
-#EXTINF: -1 tvg-logo='https://gkpb.com.br/wp-content/uploads/2018/03/novo-logo-canal-viva.jpg'  group-title='NOVELAS' , VIVA
-http://fadder.eletrinho.shop:2095/live/viva/chunks.m3u8?token=1695820229_19cd3492499e0b99a0862e0a2d65c7b97a80644f
-
-#EXTINF: -1 tvg-logo='https://i.imgur.com/6F6H7bz.png'  group-title='NOVELAS' , VIVA HD
-http://meumd.com:80/11951704933/2020/108323
-
-#EXTINF: -1 tvg-logo='https://i.imgur.com/6F6H7bz.png'  group-title='NOVELAS' , VIVA SD
-http://meumd.com:80/11951704933/2020/108324
-
-#EXTINF: -1 tvg-logo='http://ddsw.xyz:80/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78QO8MmZq-K5Gk0pBnkkRPvlipSQlbbHuOC9muJAgElQMQ.png'  group-title='NOTÍCIAS' , TERRA VIVA M3U
-http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
-
-#EXTINF: -1 tvg-logo='https://listaiptv.gratis/logos/imagens/band.png'  group-title='ABERTOS' , BAND PARÁ - RBA TV
-https://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv/playlist.m3u8
-
-#EXTINF: -1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1000px-Rede_Bandeirantes_logo_2011.svg.png'  group-title='ABERTOS' , BAND PA HD
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist.m3u8
-
-#EXTINF: -1 tvg-logo='https://i.imgur.com/TL9HqlP.png'  group-title='ABERTOS' , GLOBO SP SD
-https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
-
-#EXTINF: -1 tvg-logo='http://cdn.tyuj.xyz:80/logos/globo.jpg'  group-title='ABERTOS' , GLOBO SP
-http://main.xplus2-main.xyz:2095/xplus-2-TqdHLCPV44/DDsZ6M4H0r/515
-
-#EXTINF: -1 tvg-logo='https://gkpb.com.br/wp-content/uploads/2020/12/novo-logo-da-globo-2021.jpg'  group-title='ABERTOS' , GLOBO SP HD
-http://199.127.60.83:16020
-
-#EXTINF: -1 tvg-logo='http://46.165.222.67:2095/xplus/eptv.png'  group-title='ABERTOS' , EPTV RIBEIRAO PRETO
-http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/1011
-
-#EXTINF: -1 tvg-logo='https://gkpb.com.br/wp-content/uploads/2020/12/novo-logo-da-globo-2021.jpg'  group-title='ABERTOS' , TV DIARIO HD
-http://mn.appserv19.xyz:2095/Xplus-1-ieWG3lPGYN/gcZNJt2Plp/548
-
-#EXTINF: -1 tvg-logo='http://go555.xyz:80/images/05c56d969fe4912a8fb4ff47d1602964.png'  group-title='PORTUGAL' , PT: CNN PORTUGAL
-http://milka99.xyz:80/097543511553/726840449033/54232
 
 #EXTINF: -1 tvg-logo='https://1.bp.blogspot.com/-0ZxVMtbbb5w/YBxY3bEY-aI/AAAAAAAAJyQ/2b8TcEozy40T6z1oMid2TNrANUAfN9rggCLcBGAsYHQ/s0/HBO%2BPLUS.png'  group-title='FILMES E SÉRIES' , HBO PLUS HD
 http://t2tp.xyz:80/818707216/771985351/71352
@@ -432,9 +334,6 @@ http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31166
 
 #EXTINF: -1 tvg-logo='https://i.imgur.com/gULDKB3.png'  group-title='ESPORTES' , SPORTV HD
 http://casaplay.cf:8080/Silvia/Silvia/150357
-
-#EXTINF: -1 tvg-logo='https://www.mktesportivo.com/wp-content/uploads/2022/11/copa_caze_tv-768x533.jpg'  group-title='ESPORTES' , CAZE TV
-http://mn.appserv19.xyz:2095/Xplus-1-GXb7uv60ZS/yiwbzzpm7i/1149
 
 #EXTINF: -1 tvg-logo='https://i.imgur.com/gyd4IIM.png'  group-title='FILMES E SÉRIES' , MEGAPIX SD
 http://meumd.com:80/11951704933/2020/108572
@@ -487,14 +386,8 @@ http://milka99.xyz:80/069593498368/314545785775/6874
 #EXTINF: -1 tvg-logo='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/91/49/5e/91495e8a-7a9c-c032-6129-5b25e6890ed6/source/512x512bb.jpg'  group-title='ESPORTES' , ALL SPORTS TV
 https://5cf4a2c2512a2.streamlock.net:443/dgrau/dgrau/playlist.m3u8
 
-#EXTINF: -1 tvg-logo='https://i.imgur.com/wNvqkOM.png'  group-title='PORTUGAL' , MTV PORTUGAL HD
-http://meumd.com:80/11951704933/2020/239194
-
 #EXTINF: -1 tvg-logo='https://imgur.com/4dfmnBs.png'  group-title='OUTROS' , CNN BRASIL
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8?ManoTV
-
-#EXTINF: -1 tvg-logo='https://seeklogo.com/vector-logo/253022/cnt.png'  group-title='ABERTOS' , CNT
-http://168.205.87.198:8555/live/1057/123456/150.ts
 
 #EXTINF: -1 tvg-logo='https://i.imgur.com/jZIN1Ea.png'  group-title='DESENHOS' , GLOOB SD
 http://meumd.com:80/11951704933/2020/135172
@@ -508,14 +401,6 @@ http://mn.appserv19.xyz:2095/Xplus-1-tK6WShEj8D/p0uJvrxmUR/678
 #EXTINF: -1 tvg-logo='http://app.tvdigital.link:2095/logoscanais/STARPLUS.png'  group-title='PPV' , STAR + 1 HD
 http://authenticate.cdn23.click:80/live/p2puni777/8zksAAJgKEYq/232232.m3u8
 
-#EXTINF: -1 tvg-logo='https://alemdatela.com/wp-content/uploads/2023/05/tnt-novelas-logo-Large-696x392.jpg'  group-title='NOVELAS' , TNT NOVELAS HD
-http://meumd.com:80/11951704933/2020/234912
-
-#EXTINF: -1 tvg-logo='https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/image.png'  group-title='NOVELAS' , CANELA TELENOVELAS
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
-
-#EXTINF: -1 tvg-logo='http://46.165.222.67:2095/tourobox/trutv.png'  group-title='FILMES E SÉRIES' , TRU TV
-https://s.m3u9.top/a2/hls1/trutv/__index.m3u8?mu3zAQc9HC3GbwJq=_s9eS_690pArVE72aCnpLQ&3U1G7qaTxrPbalZnEx=1696398298
 
 #EXTINF: -1 tvg-logo='https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/150px-Logotipo_do_SBT.svg.png'  group-title='ABERTOS' , SBT SP HD
 http://208.115.225.174:14170
@@ -544,18 +429,6 @@ https://tv02.zas.media:1936/centraltv/centraltv/pkaylist.m3u8?ManoTV
 #EXTINF: -1 tvg-logo='http://ddsw.xyz:80/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwJwTUDS5w_XETeWG-isj7tSWU7ZdcAAIrEpM1qgAESqBw.png'  group-title='VARIEDADES' , COMEDY CENTRAL HD
 http://45.58.126.146:14305
 
-#EXTINF: -1 tvg-logo='https://listaiptv.gratis/logos/imagens/arapuam.png'  group-title='ABERTOS' , REDETV! TV ARAPUAN HD (PB)
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
-
-#EXTINF: -1 tvg-logo='https://i.imgur.com/SEe2ki7.png'  group-title='ABERTOS' , REDETV! TOCANTINS
-https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8
-
-#EXTINF: -1 tvg-logo='https://listaiptv.gratis/logos/imagens/pampa.png'  group-title='ABERTOS' , TV PAMPA - REDETV! RS
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
-
-#EXTINF: -1 tvg-logo='https://listaiptv.gratis/logos/imagens/tvpantanalredetv.png'  group-title='ABERTOS' , REDETV! TV PANTANAL (MT)
-https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
-
 #EXTINF: -1 tvg-logo='http://ddsw.xyz:80/images/HM3xx55KZnCUdlPuNC1k2GwUee_HeV47TzX8gNpnfyCXxfO6ghnB48JrOQ-UOOV2X3rsCLN-pJVrJ98qoJwBbw.png'  group-title='DOCUMENTÁRIOS' , NATGEO FHD
 http://45.58.126.146:14287/natgeo
 
@@ -573,9 +446,6 @@ http://tv.deflextelecom.com.br:8880/live/jean123/jean123/615.m3u8
 
 #EXTINF: -1 tvg-logo='http://tv.playtv.net.br:8880/images/7fb13e20f2a4cd47a0b415030b583e06.png'  group-title='DOCUMENTÁRIOS' , ANIMAL PLANET HD
 http://tv.deflextelecom.com.br:8880/live/jean123/jean123/4.m3u8
-
-#EXTINF: -1 tvg-logo='http://168.205.87.198/logocanais/recordtvminas.png'  group-title='ABERTOS' , RECORD MINAS
-http://168.205.87.198:8555/live/1057/123456/96.ts
 
 #EXTINF: -1 tvg-logo='https://i.postimg.cc/PqrTDnGx/RECORD-TV.png'  group-title='ABERTOS' , RECORD SP HD 2
 http://milka99.xyz:80/703811133683/073445946502/73034
@@ -603,15 +473,6 @@ http://tv.deflextelecom.com.br:8880/live/jean123/jean123/180.m3u8
 
 #EXTINF: -1 tvg-logo='http://go555.xyz:80/images/6a46aedacf66e86e4d3eaabed9d4f1d9.png'  group-title='CANAIS PREMIERE' , PREMIERE 1 FHD
 http://assista.pro:80/5511985089465/25282898/122675
-
-#EXTINF: -1 tvg-logo='https://listaiptv.gratis/wp-content/uploads/2023/08/playtv.png'  group-title='VARIEDADES' , PLAYTV
-https://playtv.mediastreaming.com.br/play/live.stream/playlist.m3u8
-
-#EXTINF: -1 tvg-logo='https://i.imgur.com/YVPa4BB.png'  group-title='ABERTOS' , REDE TV HD
-https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
-
-#EXTINF: -1 tvg-logo='https://i.imgur.com/YVPa4BB.png'  group-title='ABERTOS' , REDE TV HD
-http://168.205.87.198:8555/live/1431/123456/102.m3u8
 
 #EXTINF: -1 tvg-logo='http://go555.xyz:80/images/28a51303305fde3f61afbac8679ffc52.png'  group-title='24 HORAS' , 24HS ALF, O ETEIMOSO
 http://milka99.xyz:80/653555120756/077032534215/89027
