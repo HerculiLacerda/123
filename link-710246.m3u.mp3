@@ -40,15 +40,13 @@ http://seltz.site:80/HallysonBruno/hfhchfbhy/97347
 http://seltz.site:80/HallysonBruno/hfhchfbhy/97615
 #EXTINF:-1 channel-id="Premiere Clubes" tvg-id="premiere.clubes.br" tvg-name="premiere.clubes.br" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_PREMIERE.png" group-title="Canais |",Premiere Clubes
 http://seltz.site:80/HallysonBruno/hfhchfbhy/97215
-#EXTINF:-1 channel-id="RECORD SP" tvg-id="record.br" tvg-name="record.br" tvg-logo="http://ucsxiptv.com:8080/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="Canais |",RECORD SP
+#EXTINF:-1 channel-id="RECORD SP" tvg-id="record.br" tvg-name="record.br" tvg-logo="http://ucsxiptv.com:8080/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="Canais |",Record
 http://seltz.site:80/HallysonBruno/hfhchfbhy/97132
-#EXTINF:-1 channel-id="Rede TV " tvg-id="rede.belem.br" tvg-name="rede.belem.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/RedeTV%21.png" group-title="Canais |",Rede TV
-http://seltz.site:80/HallysonBruno/hfhchfbhy/100331
 #EXTINF:-1 channel-id="SBT" tvg-id="sbt.br" tvg-name="sbt.br" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title=" Canais | SBT",SBT
 http://seltz.site:80/HallysonBruno/hfhchfbhy/469477
 #EXTINF:-1 channel-id="SBT  SP" tvg-id="sbt.br" tvg-name="sbt.br" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_CHN_SBT.png" group-title="Canais |",SBT  SP
 http://seltz.site:80/HallysonBruno/hfhchfbhy/109627
-#EXTINF:-1 channel-id="SPORTV " tvg-id="sportv.br" tvg-name="sportv.br" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_SPORTTV.png" group-title="Canais |",SPORTV
+#EXTINF:-1 channel-id="SPORTV " tvg-id="sportv.br" tvg-name="sportv.br" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_SPORTTV.png" group-title="Canais |",Sportv
 https://s.m3u9.top/a2/hls1/sportv1/__index.m3u8?mu3zAQc9HC3GbwJq=g5vtou0oNSyTyu2hX6uhQg&3U1G7qaTxrPbalZnEx=1707147637#EXTINF:-1 channel-id="Star Channel" tvg-id="star.br" tvg-name="star.br" tvg-logo="https://digitalapi.sky.com.br/logos/channels/541.png" group-title="Canais |",Star Channel
 http://seltz.site:80/HallysonBruno/hfhchfbhy/97571
 #EXTINF:-1 channel-id="TNT" tvg-id="tnt.br" tvg-name="tnt.br" tvg-logo="http://ucsxiptv.com:8080/images/be5bfe94570a31b3728b4c2dff9425fa.png" group-title="Canais |",TNT
