@@ -32,8 +32,7 @@ http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21224
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/255466
 #EXTINF:-1 channel-id="Band Sports" tvg-id="Bandsportshd.br" tvg-name="Bandsportshd.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/234278
-#EXTINF:-1 channel-id="Band Sports" tvg-id="Bandsportshd.br" tvg-name="Bandsportshd.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21225
+
 #EXTINF:-1 channel-id="CNN Brasil" tvg-id="Cnnbrasil.br" tvg-name="Cnnbrasil.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Brasil
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21353
 #EXTINF:-1 channel-id="Canal Sony" tvg-id="Sony.br" tvg-name="Sony.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SONYCHANNEL.png" group-title="Canais | Filmes & Series",Canal Sony
@@ -56,7 +55,7 @@ http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21338
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21295
 #EXTINF:-1 channel-id="Disc. Science" tvg-id="DiscoveryScience.br" tvg-name="DiscoveryScience.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYSCIENCE.png" group-title="Canais | Discovery",Disc. Science
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21297
-#EXTINF:-1 channel-id="Disc. Theater" tvg-id="HDiscoveryTheater.br" tvg-name="DiscoveryTheater.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTHEATER.png" group-title="Canais | Discovery",Disc. Theater
+#EXTINF:-1 channel-id="Disc. Theater" tvg-id="Homehealth.br" tvg-name="Homehealth.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTHEATER.png" group-title="Canais | Discovery",Disc. Theater
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21298
 #EXTINF:-1 channel-id="Disc. Turbo" tvg-id="Discturbohd.br" tvg-name="Discturbohd.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTURBO.png" group-title="Canais | Discovery",Disc. Turbo
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21299
@@ -68,7 +67,7 @@ http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/360
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21313
 #EXTINF:-1 channel-id="ESPN Extra" tvg-id="Espnextra.br" tvg-name="Espnextra.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN Extra
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21236
-#EXTINF:-1 channel-id="ESPN" tvg-id="ESPNInternational.br" tvg-name="ESPNInternational.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN
+#EXTINF:-1 channel-id="ESPN" tvg-id="Espn.brr" tvg-name="Espn.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21315
 #EXTINF:-1 channel-id="ESPN2" tvg-id="ESPNInternational.br" tvg-name="ESPNInternational.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN2
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/52091
