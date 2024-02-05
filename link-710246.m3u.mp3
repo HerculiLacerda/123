@@ -25,13 +25,12 @@ http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/22305
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21222
 #EXTINF:-1 channel-id="BIS" tvg-id="Bishd.br" tvg-name="Bishd.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BIS.png" group-title="Canais |  Variedades ",BIS
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21226
-#EXTINF:-1 channel-id="BJJ STARS" tvg-id="Combatehd.br" tvg-name="Combatehd.br" tvg-logo="https://yt3.googleusercontent.com/5qffzzZVV45NzgJ_wu-xlvXN-BSHWKW15goDi1QJcVIna8Seu-9PMGWOBCLuz6QAlZE0byNrMw=s900-c-k-c0x00ffffff-no-rj" group-title="Canais | Pay-per-view",BJJ STARS
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/250890
+
 #EXTINF:-1 channel-id="Band News" tvg-id="Bandnews.br" tvg-name="Bandnews.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BANDNEWS.png" group-title="Canais | Noticias",Band News
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21224
-#EXTINF:-1 channel-id="Band SP" tvg-id="BandRede.br" tvg-name="BandRede.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png" group-title=" Canais | Band",Band SP
+#EXTINF:-1 channel-id="Band SP" tvg-id="Band.br" tvg-name="Band.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png" group-title=" Canais | Band",Band SP
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/255466
-#EXTINF:-1 channel-id="Band Sports 4K" tvg-id="Bandsportshd.br" tvg-name="Bandsportshd.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports 4K
+#EXTINF:-1 channel-id="Band Sports" tvg-id="Bandsportshd.br" tvg-name="Bandsportshd.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/234278
 #EXTINF:-1 channel-id="Band Sports" tvg-id="Bandsportshd.br" tvg-name="Bandsportshd.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BANDSPORTS.png" group-title="Canais | Esportes",Band Sports
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21225
@@ -57,7 +56,7 @@ http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21338
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21295
 #EXTINF:-1 channel-id="Disc. Science" tvg-id="DiscoveryScience.br" tvg-name="DiscoveryScience.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYSCIENCE.png" group-title="Canais | Discovery",Disc. Science
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21297
-#EXTINF:-1 channel-id="Disc. Theater" tvg-id="Hdtheater.br" tvg-name="Hdtheater.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTHEATER.png" group-title="Canais | Discovery",Disc. Theater
+#EXTINF:-1 channel-id="Disc. Theater" tvg-id="HDiscoveryTheater.br" tvg-name="DiscoveryTheater.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTHEATER.png" group-title="Canais | Discovery",Disc. Theater
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21298
 #EXTINF:-1 channel-id="Disc. Turbo" tvg-id="Discturbohd.br" tvg-name="Discturbohd.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYTURBO.png" group-title="Canais | Discovery",Disc. Turbo
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21299
