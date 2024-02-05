@@ -1,63 +1,94 @@
 #EXTM3U
+
 #EXTINF:-1 channel-id="AXN" tvg-id="axn.br" tvg-name="axn.br" tvg-logo="http://ucsxiptv.com:8080/images/logos/122b692dafbc0c6c96e99120afa1d0c8.png" group-title="Canais |",AXN
 http://seltz.site:80/HallysonBruno/hfhchfbhy/110994
 
 #EXTINF:-1 tvg-id="band.br" tvg-name="Band" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-br.png" group-title="Canais Abertos",Band
 https://stream-02.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-fe-If7bsNNm6ltPrUf2puyJkkp1PfRulNeFfJgEyNeI)/cloud/3/x83vbd6/s/live-2.m3u8#cell=lnyc
-#EXTINF:-1 channel-id="Acompanhe a Casa" tvg-id="None" tvg-name="None" tvg-logo="https://horadafofoca.com.br/wp-content/uploads/2023/10/dois-3-1.png" group-title="Canais | BBB 2024",Acompanhe a Casa
+
+#EXTINF:-1 channel-id="Acompanhe a Casa" tvg-id="None" tvg-name="None" tvg-logo="https://horadafofoca.com.br/wp-content/uploads/2023/10/dois-3-1.png" group-title="Canais | BBB 2024", BBB
 http://s.m3u9.top/a2/hls1/bbb24s01/__index.m3u8?mu3zAQc9HC3GbwJq=V2R_uJWjgCMcd7gCsyTX5w&3U1G7qaTxrPbalZnEx=1707146825
+
 #EXTINF:-1 channel-id="Animal Planet" tvg-id="animal.planet.br" tvg-name="animal.planet.br" tvg-logo="http://ucsxiptv.com:8080/images/206f85bae8d3e6fa73aff13b76280347.png" group-title="Canais |",Animal Planet
 http://seltz.site:80/HallysonBruno/hfhchfbhy/97167
+
 #EXTINF:-1 channel-id="CNN Brasil" tvg-id="cnn.brasil.br" tvg-name="cnn.brasil.br" tvg-logo="http://ucsxiptv.com:8080/images/logos/cnn-brasil-logo.png" group-title="Canais |",CNN Brasil
 http://seltz.site:80/HallysonBruno/hfhchfbhy/110992
+
 #EXTINF:-1 channel-id="Cartoon Network" tvg-id="cartoon.network.br" tvg-name="cartoon.network.br" tvg-logo="https://i.imgur.com/uMdTdEQ.png" group-title="Canais |",Cartoon Network
 http://seltz.site:80/HallysonBruno/hfhchfbhy/97234
+
 #EXTINF:-1 channel-id="Combate" tvg-id="combate.br" tvg-name="combate.br" tvg-logo="http://ucsxiptv.com:8080/images/logos/Premiere_combate.png" group-title="Canais |",Combate
 http://seltz.site:80/HallysonBruno/hfhchfbhy/97282
+
 #EXTINF:-1 channel-id="Comedy Central" tvg-id="comedy.central.br" tvg-name="comedy.central.br" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/158.png" group-title="Canais |",Comedy Central
 http://seltz.site:80/HallysonBruno/hfhchfbhy/110991
+
 #EXTINF:-1 channel-id="Discovery Channel" tvg-id="discovery.br" tvg-name="discovery.br" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_DSICOVERY.png" group-title="Canais |",Discovery Channel
 https://s.m3u9.top/a2/hls1/discovery/__index.m3u8?mu3zAQc9HC3GbwJq=as0F_ujnR5R-iub6Huv6ig&3U1G7qaTxrPbalZnEx=1707140563
+
 #EXTINF:-1 channel-id="Discovery Home & Health" tvg-id="discovery.home.health.br" tvg-name="discovery.home.health.br" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_HH.png41" group-title="Canais |",Discovery Home & Health
 http://seltz.site:80/HallysonBruno/hfhchfbhy/110990
+
 #EXTINF:-1 channel-id="Discovery Turbo" tvg-id="discovery.turbo.br" tvg-name="discovery.turbo.br" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_TURBO.jpg" group-title="Canais |",Discovery Turbo
 http://seltz.site:80/HallysonBruno/hfhchfbhy/110989
+
 #EXTINF:-1 channel-id="ESPN 4 " tvg-id="espn.brasil.br" tvg-name="espn.brasil.br" tvg-logo="https://a.espncdn.com/redesign/assets/img/logos/logo-espn-90x22@2x.png" group-title="Canais |",ESPN 4 
 http://seltz.site:80/HallysonBruno/hfhchfbhy/97492
+
 #EXTINF:-1 channel-id="ESPN" tvg-id="espn.br" tvg-name="espn.br" tvg-logo="https://a.espncdn.com/redesign/assets/img/logos/logo-espn-90x22@2x.png" group-title="Canais |",ESPN
 http://seltz.site:80/HallysonBruno/hfhchfbhy/100336
+
 #EXTINF:-1 channel-id="GNT" tvg-id="gnt.br" tvg-name="gnt.br" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_GNT.png" group-title="Canais |",GNT
 http://seltz.site:80/HallysonBruno/hfhchfbhy/100334
+
 #EXTINF:-1 channel-id="Globo" tvg-id="globo.br" tvg-name="globo.br" tvg-logo="https://www.sky.com.br/documents/1407842/0/99x38_LOGO_SKY_GLOBO.png" group-title="Canais |",Globo
 https://live-01.edge-dinamica-vve-es.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1kaW5hbWljYS12dmUtZXMudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzA3MTk4Nzc5LCJpYXQiOjE3MDcxMTIzNzksImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiOWIwOTMzM2YtZmNkOC00MGRlLWI4NTAtMmQ0MjdiOGU0MjNkIiwicGF0aCI6Ii9udS9mKGk9MikvZ2xvYm8tdml0L3BsYXlsaXN0Lm0zdTgifQ.StKvWXg6lrkRa31VpApxUk143oggPG0LacALwlirM73kjdBN3JlDgzHCyNoHPH_NZOgwwml2LtoVkFoduw5ovy63I_Moe_3bANeey_quTU_ABXNZA-pQzx12vpCPEvhvHCHt_dDn57wwQEX6TmMTq11oFNiwCPf369Dub8a_7hNPQDobItTtHMn_KWI8zW1upctscanDLFnodsfALPzfzQUFOGf4misDogFGf8buWRLXwotFwKI6xWSrk6IEn84j8nGjFurDqXg6kyCDmPyqrAfHzqLEfFCXxcqduQ_UFmH5v86y5JAQsNi50W1k6N99oA_kErRrw6i7bWznrj2h3A/nu/f(i=2)/globo-vit/globo-vit-audio_1=96000-video=2262976.m3u8
+
 #EXTINF:-1 channel-id="Globo News" tvg-id="globo.news.br" tvg-name="globo.news.br" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/40.png" group-title="Canais |",Globo News
 http://seltz.site:80/HallysonBruno/hfhchfbhy/100335
+
 #EXTINF:-1 channel-id="HBO" tvg-id="hbo.br" tvg-name="hbo.br" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/120.png" group-title="Canais |",HBO
 http://seltz.site:80/HallysonBruno/hfhchfbhy/100333
+
 #EXTINF:-1 channel-id="Megapix" tvg-id="megapix.br" tvg-name="megapix.br" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/107.png" group-title="Canais |",Megapix
 http://seltz.site:80/HallysonBruno/hfhchfbhy/97347
+
 #EXTINF:-1 channel-id="Multishow" tvg-id="multishow.br" tvg-name="multishow.br" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_MULTISHOW.png" group-title="Canais |",Multishow
 http://seltz.site:80/HallysonBruno/hfhchfbhy/97615
+
 #EXTINF:-1 channel-id="Premiere Clubes" tvg-id="premiere.clubes.br" tvg-name="premiere.clubes.br" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_PREMIERE.png" group-title="Canais |",Premiere Clubes
 http://seltz.site:80/HallysonBruno/hfhchfbhy/97215
+
 #EXTINF:-1 channel-id="RECORD SP" tvg-id="record.br" tvg-name="record.br" tvg-logo="http://ucsxiptv.com:8080/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="Canais |",Record
 http://seltz.site:80/HallysonBruno/hfhchfbhy/97132
+
 #EXTINF:-1 channel-id="SBT" tvg-id="sbt.br" tvg-name="sbt.br" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title=" Canais | SBT",SBT
 http://seltz.site:80/HallysonBruno/hfhchfbhy/469477
+
 #EXTINF:-1 channel-id="SBT  SP" tvg-id="sbt.br" tvg-name="sbt.br" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_CHN_SBT.png" group-title="Canais |",SBT  SP
 http://seltz.site:80/HallysonBruno/hfhchfbhy/109627
+
 #EXTINF:-1 channel-id="SPORTV " tvg-id="sportv.br" tvg-name="sportv.br" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_SPORTTV.png" group-title="Canais |",Sportv
-https://s.m3u9.top/a2/hls1/sportv1/__index.m3u8?mu3zAQc9HC3GbwJq=g5vtou0oNSyTyu2hX6uhQg&3U1G7qaTxrPbalZnEx=1707147637#EXTINF:-1 channel-id="Star Channel" tvg-id="star.br" tvg-name="star.br" tvg-logo="https://digitalapi.sky.com.br/logos/channels/541.png" group-title="Canais |",Star Channel
+https://s.m3u9.top/a2/hls1/sportv1/__index.m3u8?mu3zAQc9HC3GbwJq=g5vtou0oNSyTyu2hX6uhQg&3U1G7qaTxrPbalZnEx=1707147637
+
+#EXTINF:-1 channel-id="Star Channel" tvg-id="star.br" tvg-name="star.br" tvg-logo="https://digitalapi.sky.com.br/logos/channels/541.png" group-title="Canais |",Star Channel
 http://seltz.site:80/HallysonBruno/hfhchfbhy/97571
+
 #EXTINF:-1 channel-id="TNT" tvg-id="tnt.br" tvg-name="tnt.br" tvg-logo="http://ucsxiptv.com:8080/images/be5bfe94570a31b3728b4c2dff9425fa.png" group-title="Canais |",TNT
 http://seltz.site:80/HallysonBruno/hfhchfbhy/97248
+
 #EXTINF:-1 channel-id="TNT Series" tvg-id="tnt.series.br" tvg-name="tnt.series.br" tvg-logo="http://ucsxiptv.com:8080/images/33e1d5417c9d76d74f31a82e8e81f712.png" group-title="Canais |",TNT Series
 http://seltz.site:80/HallysonBruno/hfhchfbhy/97254
+
 #EXTINF:-1 channel-id="Telecine Action" tvg-id="telecine.action.br" tvg-name="telecine.action.br" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x78_IMG_SKY_TC_ACTION_BLACK.png" group-title="Canais |",Telecine Action
 http://seltz.site:80/HallysonBruno/hfhchfbhy/100328
+
 #EXTINF:-1 channel-id="Telecine Pipoca" tvg-id="telecine.pipoca.br" tvg-name="telecine.pipoca.br" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x78_IMG_SKY_TC_PIPOCA_BLACK.png" group-title="Canais |",Telecine Pipoca
 http://seltz.site:80/HallysonBruno/hfhchfbhy/100329
+
 #EXTINF:-1 channel-id="Telecine Premium" tvg-id="telecine.premium.br" tvg-name="telecine.premium.br" tvg-logo="http://ucsxiptv.com:8080/images/876e229e5252d62ec26916d99fe14da6.png" group-title="Canais |",Telecine Premium
 http://seltz.site:80/HallysonBruno/hfhchfbhy/97588
+
 #EXTINF:-1 channel-id="Universal Tv" tvg-id="universal.br" tvg-name="universal.br" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/140.png" group-title="Canais |",Universal Tv
 http://seltz.site:80/HallysonBruno/hfhchfbhy/100327
