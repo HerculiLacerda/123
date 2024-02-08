@@ -38,7 +38,7 @@ http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21353
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21229
 #EXTINF:-1 channel-id="Cartoon Network" tvg-id="Cartoonnetwork.br" tvg-name="Cartoonnetwork.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CARTOONNETWORK.png",Cartoon Network
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21230
-#EXTINF:-1 channel-id="CazeTV" tvg-id="CazeTV.br" tvg-name="CazeTV.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CAZETV.png" group-title="Canais | Pay-per-view",CazeTV
+#EXTINF:-1 channel-id="CazeTV" tvg-id="CazeTV.br" tvg-name="CazeTV.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CAZETV.png",CazeTV
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/254103
 #EXTINF:-1 channel-id="Cinemax" tvg-id="Cinemax.br" tvg-name="Cinemax.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CINEMAX.png",Cinemax
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21231
