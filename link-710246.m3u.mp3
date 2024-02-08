@@ -25,7 +25,6 @@ http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/22305
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21222
 #EXTINF:-1 channel-id="BIS" tvg-id="Bishd.br" tvg-name="Bishd.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BIS.png",BIS
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21226
-
 #EXTINF:-1 channel-id="Band News" tvg-id="Bandnews.br" tvg-name="Bandnews.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BANDNEWS.png",Band News
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21224
 #EXTINF:-1 channel-id="Band" tvg-id="Bandeirantes.br" tvg-name="Bandeirantes.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/BAND.png",Band
@@ -77,25 +76,19 @@ http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21235
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21318
 #EXTINF:-1 channel-id="FOX Sports 2" tvg-id="Foxsports2.br" tvg-name="Foxsports2.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FOXSPORTS.png",FOX Sports 2
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21317
-#EXTINF:-1 channel-id="FX" tvg-id="Fx.br" tvg-name="Fx.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FX.jpg" group-title="Canais | Star Channel",FX
+#EXTINF:-1 channel-id="FX" tvg-id="Fx.br" tvg-name="Fx.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FX.jpg",FX
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21243
 #EXTINF:-1 channel-id="Fish TV" tvg-id="Fishtv.br" tvg-name="Fishtv.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FISHTV.png",Fish TV
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21316
 #EXTINF:-1 channel-id="Food Network" tvg-id="Foodnetworkhd.br" tvg-name="Foodnetworkhd.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FOODNETWORK.png",Food Network
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21237
-
 #EXTINF:-1 channel-id="GNT" tvg-id="Gnt.br" tvg-name="Gnt.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GNT.png",GNT
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21321
 
-#EXTINF:-1 channel-id="535" tvg-id="Globorj.br" tvg-name="Globorj.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo RJ HD",Globo ES 
-
-
-
-
-
-
-
-
+#EXTINF:-1 channel-id="535" tvg-id="Globorj.br" tvg-name="Globorj.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo RJ HD",Globo TV Gazeta Sul HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2318
+#EXTINF:-1 channel-id="535" tvg-id="Globorj.br" tvg-name="Globorj.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" channel-id="Globo RJ HD",Globo TV Gazeta Vitoria HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/2394
 #EXTINF:-1 channel-id="GLOBO NEWS" tvg-id="Globonews.br" tvg-name="Globonews.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBONEWS.png",GloboNews
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21244
 #EXTINF:-1 channel-id="HBO +" tvg-id="Hboplus.br" tvg-name="Hboplus.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png",HBO +
@@ -126,7 +119,6 @@ http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21323
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21221
 #EXTINF:-1 channel-id="Lifetime" tvg-id="Lifetime.br" tvg-name="Lifetime.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/LIFETIME.png",Lifetime
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21252
-
 #EXTINF:-1 channel-id="Megapix" tvg-id="Megapix.br" tvg-name="Megapix.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MEGAPIX.png",Megapix
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21257
 #EXTINF:-1 channel-id="Multishow" tvg-id="Multishow.br" tvg-name="Multishow.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MULTISHOW.png",Multishow
@@ -157,17 +149,15 @@ http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21268
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21328
 #EXTINF:-1 channel-id="Premiere 7" tvg-id="Premiere7.br" tvg-name="Premiere7.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png",Premiere 7
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21329
-
 #EXTINF:-1 channel-id="Premiere Clubes" tvg-id="Premierefchd.br" tvg-name="Premierefchd.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png",Premiere Clubes
-https://live-01.edge-dinamica-vve-es.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1kaW5hbWljYS12dmUtZXMudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzA3MjcwMjI1LCJpYXQiOjE3MDcxODM4MjUsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNDI3N2IxOTYtM2QzOS00ZDYyLWE1ZTUtOGYzOWViMjNkYWVmIiwicGF0aCI6Ii9udS9mKGk9MikvcGZjMS9wbGF5bGlzdC5tM3U4In0.cUCDbEZOFGQ1ZDB-nBbe1jPCtBLeoS4hql9TxdZVPWPPzKhkmE9FTHR3VkLP8HOWKyXtKbS4hBGe1nLI3Z0FfpSghSPYh0WUVAsQ1ivUHNoFiLam1yNyEoAoVmV4Q0oj6ig2TgDeq5lddN55ZbgnqwXV4H3slCuung1EYFpM7Zv9PhmxgAQ_HdzONDclDNN4H6s0KJcM0SZbn9xOgeTJpRuC8g4G-UBLFDbC_Q75kX_qVrI4T8ToE7HEDPSHgQ_HzR92VbkyyNlHJClTR4JNEFBgqZRLvD4ve8jao6ffbRa4_pzQdV3ZfdqqTz0uf8WsPtBDueL8-kZYzsl8sHAHSg/nu/f(i=2)/pfc1/playlist.m3u8
-
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/494
 #EXTINF:-1 channel-id="Record News" tvg-id="Recordnews.br" tvg-name="Recordnews.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDNEWS.png",Record News
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/118889
 #EXTINF:-1 channel-id="RecordTV RS" tvg-id="Recordrs.br" tvg-name="Recordrs.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png",RecordTV RS
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/244108
 #EXTINF:-1 channel-id="RecordTV SP" tvg-id="Rederecord.br" tvg-name="Rederecord.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png",RecordTV SP
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/244073
-#EXTINF:-1 channel-id="SBT SP" tvg-id="Sbt.br" tvg-name="Sbt.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png" group-title="Canais | SBT",SBT SP
+#EXTINF:-1 channel-id="SBT SP" tvg-id="Sbt.br" tvg-name="Sbt.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png",SBT SP
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/244164
 #EXTINF:-1 channel-id="SYFY" tvg-id="Cineskyplay.br" tvg-name="Cineskyplay.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SYFY.png",SYFY
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21277
@@ -187,9 +177,9 @@ http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/232235
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/232239
 #EXTINF:-1 channel-id="Star + 4" tvg-id="None" tvg-name="None" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png",Star + 4
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/232244
-#EXTINF:-1 channel-id="Star Channel" tvg-id="Fox.br" tvg-name="Fox.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARCHANNEL.png" group-title="Canais | Star Channel",Star Channel
+#EXTINF:-1 channel-id="Star Channel" tvg-id="Fox.br" tvg-name="Fox.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARCHANNEL.png",Star Channel
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21238
-#EXTINF:-1 channel-id="Star Life" tvg-id="Like.br" tvg-name="Like.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png" group-title="Canais | Star Channel",Star Life
+#EXTINF:-1 channel-id="Star Life" tvg-id="Like.br" tvg-name="Like.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png",Star Life
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21239
 #EXTINF:-1 channel-id="Studio Universal" tvg-id="Studiouniversal.br" tvg-name="Studiouniversal.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STUDIOUNIVERSAL.png",Studio Universal
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21276
@@ -201,17 +191,17 @@ http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21349
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21286
 #EXTINF:-1 channel-id="TNT" tvg-id="Tnt.br" tvg-name="Tnt.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNT.png",TNT
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21285
-#EXTINF:-1 channel-id="Telecine Action" tvg-id="Tcaction.br" tvg-name="Tcaction.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Action
+#EXTINF:-1 channel-id="Telecine Action" tvg-id="Tcaction.br" tvg-name="Tcaction.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png",Telecine Action
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21279
-#EXTINF:-1 channel-id="Telecine Cult" tvg-id="Tccult.br" tvg-name="Tccult.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Cult
+#EXTINF:-1 channel-id="Telecine Cult" tvg-id="Tccult.br" tvg-name="Tccult.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png",Telecine Cult
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21280
-#EXTINF:-1 channel-id="Telecine Fun" tvg-id="Tcfun.br" tvg-name="Tcfun.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Fun
+#EXTINF:-1 channel-id="Telecine Fun" tvg-id="Tcfun.br" tvg-name="Tcfun.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png",Telecine Fun
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21281
-#EXTINF:-1 channel-id="Telecine Pipoca" tvg-id="Tcpipoca.br" tvg-name="Tcpipoca.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Pipoca
+#EXTINF:-1 channel-id="Telecine Pipoca" tvg-id="Tcpipoca.br" tvg-name="Tcpipoca.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png",Telecine Pipoca
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21282
-#EXTINF:-1 channel-id="Telecine Premium" tvg-id="Tcpremium.br" tvg-name="Tcpremium.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Premium
+#EXTINF:-1 channel-id="Telecine Premium" tvg-id="Tcpremium.br" tvg-name="Tcpremium.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png",Telecine Premium
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21283
-#EXTINF:-1 channel-id="Telecine Touch" tvg-id="Tctouch.br" tvg-name="Tctouch.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Touch
+#EXTINF:-1 channel-id="Telecine Touch" tvg-id="Tctouch.br" tvg-name="Tctouch.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png",Telecine Touch
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21284
 #EXTINF:-1 channel-id="Universal TV" tvg-id="Universalchannel.br" tvg-name="Universalchannel.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/UNIVERSALTV.png",Universal TV
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21288
