@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 channel-id="1125" tvg-id="None" tvg-name="None" tvg-logo="https://www.otempo.com.br/image/contentid/policy:1.3297892:1704504773/bbb-24-png.png" channel-id="BBB Quarto Fada FHD" group-title="Canais | Big Brother Brasil 24",BBB Quarto Fada FHD
+https://m3u8.bz/a2/docs/bbb24s01/__index.m3u8?mu3zAQc9HC3GbwJq=8TFVk3_V6i9ttx-6lpJIcA&3U1G7qaTxrPbalZnEx=1708398117
+
+
 #EXTINF:-1 channel-id="1" tvg-id="ESPNInternational.br" tvg-name="ESPNInternational.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" channel-id="ESPN UHD" group-title="Canais | ESPN",ESPN UHD
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21315
 #EXTINF:-1 channel-id="2" tvg-id="ESPNInternational.br" tvg-name="ESPNInternational.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" channel-id="ESPN2 HD²" group-title="Canais | ESPN",ESPN2 HD²
